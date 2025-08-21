@@ -1,10 +1,11 @@
-HR Analytics – Predict Employee Attrition
-📌 Project Overview
+## HR Analytics – Predict Employee Attrition
+
+## 📌 Project Overview
 
 Employee attrition is a major challenge for organizations, leading to increased hiring costs, productivity loss, and decreased morale.
 This project uses data analytics and machine learning to identify the main causes of employee resignation and predict future attrition.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Perform EDA (Exploratory Data Analysis) to uncover attrition trends.
 
@@ -16,7 +17,7 @@ Develop an interactive Power BI Dashboard for HR managers.
 
 Provide data-driven suggestions to reduce attrition.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Python → Pandas, Seaborn, Scikit-learn, SHAP
 
@@ -24,7 +25,7 @@ Power BI → Dashboard & data visualization
 
 Jupyter Notebook → Data analysis and model building
 
-📂 Project Structure
+## 📂 Project Structure
 HR-Attrition-Project/
 │
 ├── data/
@@ -44,7 +45,7 @@ HR-Attrition-Project/
 │
 └── README.md                           # Project documentation
 
-📊 Steps Performed
+## 📊 Steps Performed
 
 Data Preprocessing
 
@@ -84,19 +85,19 @@ Implement work-life balance programs
 
 Train managers in effective leadership
 
-✅ Deliverables
+## ✅ Deliverables
 
-📊 Power BI Dashboard (.pbix + PDF export)
+## 📊 Power BI Dashboard (.pbix + PDF export)
 
-📓 Jupyter Notebook with models & SHAP analysis
+## 📓 Jupyter Notebook with models & SHAP analysis
 
-📑 Final 1–2 page report (PDF)
+## 📑 Final 1–2 page report (PDF)
 
-🎥 Presentation slides (PPT)
+## 🎥 Presentation slides (PPT)
 
-📈 Model Accuracy Report
+## 📈 Model Accuracy Report
 
-🚀 Conclusion
+## 🚀 Conclusion
 
 This project demonstrates how HR data can be leveraged to predict employee attrition and design proactive retention strategies.
 By integrating predictive analytics with HR decision-making, organizations can reduce attrition, improve employee satisfaction, and save costs.
