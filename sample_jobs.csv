@@ -1,0 +1,601 @@
+job_id,job_title,role,location,company,skills,url
+0,Business Analyst,Business Analyst,Mumbai,TCS,"Airflow, GCP, Hadoop, PyTorch, R, SQL",https://example.com/job/0
+1,ML Engineer - Junior,ML Engineer,Kolkata,Accenture,"Data Visualization, Pandas, R, Statistics",https://example.com/job/1
+2,BI Developer - Lead,BI Developer,Mumbai,Flipkart,"AWS, ETL, Excel, NLP, Power BI, Statistics, Tableau, TensorFlow",https://example.com/job/2
+3,BI Developer - Junior,BI Developer,Bengaluru,Freshworks,"Azure, Deep Learning, GCP, Machine Learning, Pandas, Statistics, TensorFlow, scikit-learn",https://example.com/job/3
+4,Data Scientist - Lead,Data Scientist,Bengaluru,PhonePe,"Data Visualization, GCP, Hadoop, Linux, PyTorch, SQL, Spark, Tableau",https://example.com/job/4
+5,ML Engineer - Junior,ML Engineer,Kolkata,PhonePe,"Deep Learning, Kubernetes, Statistics, TensorFlow",https://example.com/job/5
+6,ML Engineer - Junior,ML Engineer,Bengaluru,Deloitte,"Communication, NLP, R, Spark",https://example.com/job/6
+7,ML Engineer,ML Engineer,Hyderabad,Amazon,"Excel, GCP, Machine Learning, Power BI, Python, R",https://example.com/job/7
+8,Data Scientist,Data Scientist,Delhi,Flipkart,"Azure, Linux, Spark, Tableau, scikit-learn",https://example.com/job/8
+9,BI Developer,BI Developer,Hyderabad,Amazon,"AWS, Deep Learning, NLP, Pandas, Python, SQL, Tableau",https://example.com/job/9
+10,BI Developer - Lead,BI Developer,Mumbai,Deloitte,"API, AWS, Airflow, Azure, Python",https://example.com/job/10
+11,BI Developer,BI Developer,Kolkata,PhonePe,"AWS, Excel, NLP, Pandas, PyTorch, R, SQL, Tableau",https://example.com/job/11
+12,Data Analyst - Junior,Data Analyst,Bengaluru,Freshworks,"Excel, Kubernetes, PyTorch, Python, Tableau",https://example.com/job/12
+13,BI Developer - Senior,BI Developer,Chennai,Deloitte,"API, Data Visualization, Excel, Git, Spark, Tableau, TensorFlow",https://example.com/job/13
+14,Business Analyst,Business Analyst,Hyderabad,Wipro,"API, Deep Learning, Hadoop, Pandas, PyTorch",https://example.com/job/14
+15,Data Analyst - Junior,Data Analyst,Hyderabad,Deloitte,"Airflow, Data Visualization, Hadoop, Linux, NLP, Pandas, PyTorch",https://example.com/job/15
+16,Data Scientist,Data Scientist,Delhi,Accenture,"Communication, Git, Machine Learning, Power BI, Spark",https://example.com/job/16
+17,BI Developer,BI Developer,Pune,Amazon,"API, Data Visualization, Linux, Pandas, Power BI, PyTorch",https://example.com/job/17
+18,Data Analyst - Lead,Data Analyst,Noida,Infosys,"AWS, Communication, Docker, Excel, GCP, Kubernetes, NLP, Power BI, SQL",https://example.com/job/18
+19,ML Engineer,ML Engineer,Noida,Infosys,"Communication, ETL, Excel, Git, Linux, Power BI, Tableau",https://example.com/job/19
+20,Business Analyst - Senior,Business Analyst,Mumbai,TCS,"API, Git, Hadoop, NLP, Python",https://example.com/job/20
+21,ML Engineer - Senior,ML Engineer,Delhi,TCS,"NumPy, Statistics, scikit-learn",https://example.com/job/21
+22,ML Engineer - Junior,ML Engineer,Mumbai,Amazon,"ETL, Hadoop, Kubernetes, NLP",https://example.com/job/22
+23,BI Developer - Senior,BI Developer,Mumbai,PhonePe,"Data Visualization, Hadoop, Kubernetes, Machine Learning, Tableau",https://example.com/job/23
+24,Data Analyst - Lead,Data Analyst,Kolkata,PhonePe,"Hadoop, Kubernetes, Machine Learning, R, Spark",https://example.com/job/24
+25,Data Scientist - Junior,Data Scientist,Hyderabad,Infosys,"A/B Testing, Airflow, Data Visualization, GCP, Hadoop, Linux",https://example.com/job/25
+26,BI Developer - Lead,BI Developer,Delhi,Swiggy,"ETL, Hadoop, NumPy",https://example.com/job/26
+27,Business Analyst,Business Analyst,Delhi,Wipro,"AWS, Azure, Deep Learning, Pandas, TensorFlow",https://example.com/job/27
+28,Business Analyst - Senior,Business Analyst,Bengaluru,Amazon,"API, AWS, ETL, Git, Kubernetes, Pandas, Spark, Tableau",https://example.com/job/28
+29,Data Scientist,Data Scientist,Chennai,Amazon,"Azure, GCP, PyTorch, SQL",https://example.com/job/29
+30,Data Analyst - Lead,Data Analyst,Chennai,PhonePe,"Data Visualization, Excel, Git, Hadoop, Machine Learning, NumPy, R",https://example.com/job/30
+31,Data Analyst - Lead,Data Analyst,Mumbai,Wipro,"API, Airflow, Azure, Deep Learning, Docker, ETL, Hadoop, Spark",https://example.com/job/31
+32,Business Analyst - Lead,Business Analyst,Bengaluru,TCS,"Kubernetes, Machine Learning, Power BI, Python, scikit-learn",https://example.com/job/32
+33,Data Analyst - Junior,Data Analyst,Hyderabad,Freshworks,"Airflow, Docker, GCP, Linux, PyTorch, R, scikit-learn",https://example.com/job/33
+34,Data Scientist - Senior,Data Scientist,Kolkata,Infosys,"Data Visualization, Git, Linux, NumPy, Power BI",https://example.com/job/34
+35,BI Developer - Lead,BI Developer,Delhi,Swiggy,"Hadoop, NumPy, Power BI, PyTorch, Python",https://example.com/job/35
+36,BI Developer,BI Developer,Delhi,Accenture,"API, Azure, ETL, Excel, Spark",https://example.com/job/36
+37,ML Engineer - Senior,ML Engineer,Hyderabad,Accenture,"Azure, Communication, ETL, NLP, PyTorch",https://example.com/job/37
+38,Business Analyst - Senior,Business Analyst,Kolkata,TCS,"A/B Testing, Deep Learning, Docker, Kubernetes, NumPy, SQL, Tableau, scikit-learn",https://example.com/job/38
+39,Data Scientist - Junior,Data Scientist,Hyderabad,Swiggy,"Git, Kubernetes, Power BI, PyTorch, Python, R, TensorFlow, scikit-learn",https://example.com/job/39
+40,Data Scientist - Senior,Data Scientist,Pune,TCS,"ETL, Machine Learning, NLP, NumPy, PyTorch, SQL, Tableau, scikit-learn",https://example.com/job/40
+41,BI Developer,BI Developer,Kolkata,TCS,"API, Data Visualization, Docker, Kubernetes, SQL, Tableau, scikit-learn",https://example.com/job/41
+42,BI Developer - Lead,BI Developer,Chennai,Swiggy,"Communication, Docker, Kubernetes, NLP, R, Tableau",https://example.com/job/42
+43,ML Engineer - Junior,ML Engineer,Mumbai,Freshworks,"API, Communication, Machine Learning, NLP, R, SQL",https://example.com/job/43
+44,ML Engineer - Junior,ML Engineer,Noida,TCS,"Data Visualization, Deep Learning, Machine Learning, Python, Spark",https://example.com/job/44
+45,BI Developer - Junior,BI Developer,Bengaluru,Swiggy,"A/B Testing, AWS, Communication, Git, NumPy, Pandas, SQL, Spark",https://example.com/job/45
+46,ML Engineer - Junior,ML Engineer,Hyderabad,Freshworks,"Data Visualization, NLP, Power BI, Statistics, TensorFlow",https://example.com/job/46
+47,Business Analyst - Junior,Business Analyst,Mumbai,Swiggy,"Deep Learning, GCP, Hadoop, R, scikit-learn",https://example.com/job/47
+48,Data Analyst - Lead,Data Analyst,Delhi,Infosys,"API, ETL, GCP, Git, Pandas, Python, scikit-learn",https://example.com/job/48
+49,Data Scientist - Junior,Data Scientist,Bengaluru,Wipro,"A/B Testing, Data Visualization, NumPy, PyTorch, scikit-learn",https://example.com/job/49
+50,Data Analyst - Senior,Data Analyst,Pune,Swiggy,"GCP, Kubernetes, Python, Spark, Tableau, TensorFlow",https://example.com/job/50
+51,Business Analyst - Lead,Business Analyst,Chennai,Infosys,"A/B Testing, Communication, Docker, Excel, Linux, Python",https://example.com/job/51
+52,Business Analyst - Lead,Business Analyst,Hyderabad,Infosys,"AWS, Azure, Excel, Git, PyTorch, R, Statistics, scikit-learn",https://example.com/job/52
+53,Business Analyst - Senior,Business Analyst,Mumbai,Deloitte,"Azure, GCP, Machine Learning, Python, TensorFlow",https://example.com/job/53
+54,ML Engineer - Junior,ML Engineer,Delhi,TCS,"API, Airflow, Azure, Data Visualization, Kubernetes, Linux, Spark, Tableau",https://example.com/job/54
+55,Data Scientist,Data Scientist,Noida,Amazon,"A/B Testing, Azure, Deep Learning, NLP, NumPy, Spark, scikit-learn",https://example.com/job/55
+56,Data Analyst - Senior,Data Analyst,Mumbai,Infosys,"GCP, Git, Linux, Pandas, Power BI, Spark, Tableau",https://example.com/job/56
+57,Data Analyst - Lead,Data Analyst,Mumbai,PhonePe,"A/B Testing, Azure, Kubernetes, NumPy, SQL, Statistics",https://example.com/job/57
+58,BI Developer,BI Developer,Delhi,Deloitte,"Excel, Git, Hadoop, PyTorch, R, scikit-learn",https://example.com/job/58
+59,Data Scientist - Lead,Data Scientist,Bengaluru,Accenture,"AWS, Azure, ETL, Excel, Git, NLP, TensorFlow",https://example.com/job/59
+60,ML Engineer - Junior,ML Engineer,Noida,Infosys,"AWS, Docker, ETL, Git, Linux, NumPy",https://example.com/job/60
+61,Data Analyst - Senior,Data Analyst,Delhi,Wipro,"A/B Testing, API, Communication, Deep Learning, Hadoop, NLP",https://example.com/job/61
+62,ML Engineer - Junior,ML Engineer,Bengaluru,TCS,"Excel, Linux, Machine Learning, NLP, Pandas, TensorFlow",https://example.com/job/62
+63,Business Analyst - Junior,Business Analyst,Chennai,Infosys,"AWS, Data Visualization, Hadoop, Pandas, Python, SQL, Statistics",https://example.com/job/63
+64,Business Analyst - Lead,Business Analyst,Noida,Amazon,"API, Communication, Kubernetes, NLP, NumPy, Spark, TensorFlow",https://example.com/job/64
+65,Data Analyst,Data Analyst,Delhi,Flipkart,"AWS, Azure, Communication, Deep Learning, Pandas, SQL, Spark",https://example.com/job/65
+66,Business Analyst - Senior,Business Analyst,Chennai,TCS,"A/B Testing, ETL, Git, Hadoop, Machine Learning, Pandas, TensorFlow",https://example.com/job/66
+67,Data Scientist - Senior,Data Scientist,Noida,Deloitte,"A/B Testing, API, Azure, NLP, Pandas, Power BI, Spark, scikit-learn",https://example.com/job/67
+68,BI Developer,BI Developer,Mumbai,TCS,"AWS, Git, Kubernetes, Pandas, R, Tableau",https://example.com/job/68
+69,Data Analyst - Senior,Data Analyst,Bengaluru,Amazon,"Communication, Docker, Hadoop, NLP, Power BI, Spark, TensorFlow",https://example.com/job/69
+70,Business Analyst - Senior,Business Analyst,Noida,Infosys,"API, Excel, PyTorch, Python, scikit-learn",https://example.com/job/70
+71,Data Scientist - Lead,Data Scientist,Chennai,Deloitte,"AWS, Azure, ETL, Kubernetes, Linux, Power BI, PyTorch, R, Spark",https://example.com/job/71
+72,Data Analyst - Senior,Data Analyst,Chennai,Flipkart,"A/B Testing, Kubernetes, Linux, NumPy, PyTorch, R",https://example.com/job/72
+73,Business Analyst - Junior,Business Analyst,Pune,Deloitte,"A/B Testing, Communication, Deep Learning, Linux, Statistics, scikit-learn",https://example.com/job/73
+74,Data Analyst - Senior,Data Analyst,Kolkata,Infosys,"API, AWS, Azure, NumPy, Spark",https://example.com/job/74
+75,ML Engineer,ML Engineer,Mumbai,Wipro,"Deep Learning, Docker, GCP, Linux, Machine Learning, NumPy, Python, Tableau, TensorFlow",https://example.com/job/75
+76,BI Developer - Senior,BI Developer,Bengaluru,Flipkart,"A/B Testing, Airflow, Git, Kubernetes, NumPy, R, TensorFlow",https://example.com/job/76
+77,Data Analyst - Junior,Data Analyst,Hyderabad,Accenture,"A/B Testing, Azure, Communication, Data Visualization, Deep Learning, GCP, NumPy, SQL, Spark",https://example.com/job/77
+78,Data Analyst - Lead,Data Analyst,Hyderabad,Deloitte,"A/B Testing, AWS, Kubernetes, NumPy, Power BI, Statistics, Tableau",https://example.com/job/78
+79,Business Analyst,Business Analyst,Bengaluru,Deloitte,"ETL, Excel, Git, Hadoop, NLP, Pandas, Spark",https://example.com/job/79
+80,ML Engineer - Junior,ML Engineer,Pune,Deloitte,"Data Visualization, ETL, Hadoop, Pandas, Power BI, R, SQL",https://example.com/job/80
+81,BI Developer - Junior,BI Developer,Hyderabad,Infosys,"Communication, Git, NLP, PyTorch, R",https://example.com/job/81
+82,Data Scientist - Lead,Data Scientist,Kolkata,Flipkart,"Deep Learning, Machine Learning, Pandas, Power BI, TensorFlow",https://example.com/job/82
+83,BI Developer - Junior,BI Developer,Noida,Flipkart,"AWS, Airflow, Azure, Deep Learning, Excel, NLP, SQL, Tableau, scikit-learn",https://example.com/job/83
+84,Business Analyst - Junior,Business Analyst,Chennai,Deloitte,"A/B Testing, AWS, Azure, ETL, Kubernetes, NLP, Python",https://example.com/job/84
+85,ML Engineer - Junior,ML Engineer,Delhi,Flipkart,"Azure, ETL, Kubernetes, Linux",https://example.com/job/85
+86,ML Engineer - Senior,ML Engineer,Mumbai,TCS,"A/B Testing, AWS, ETL, Linux, R, Statistics, Tableau",https://example.com/job/86
+87,Data Scientist - Lead,Data Scientist,Mumbai,Deloitte,"A/B Testing, AWS, ETL, Machine Learning, Power BI, SQL, Tableau",https://example.com/job/87
+88,Business Analyst - Junior,Business Analyst,Mumbai,Swiggy,"Communication, Data Visualization, Deep Learning, Kubernetes, NLP, SQL, TensorFlow",https://example.com/job/88
+89,Data Scientist - Senior,Data Scientist,Chennai,Swiggy,"AWS, Excel, Hadoop, NumPy, Pandas, Power BI",https://example.com/job/89
+90,Data Scientist - Junior,Data Scientist,Kolkata,Amazon,"Airflow, Azure, Data Visualization, Excel, Statistics, TensorFlow",https://example.com/job/90
+91,Business Analyst,Business Analyst,Noida,Wipro,"A/B Testing, Data Visualization, GCP, Machine Learning, NumPy, Power BI, Python, Spark",https://example.com/job/91
+92,Data Analyst - Senior,Data Analyst,Bengaluru,Amazon,"A/B Testing, Azure, GCP, Hadoop, Machine Learning, NLP, R, SQL",https://example.com/job/92
+93,BI Developer - Junior,BI Developer,Bengaluru,PhonePe,"Kubernetes, Machine Learning, NLP, Python, R",https://example.com/job/93
+94,BI Developer - Senior,BI Developer,Bengaluru,Wipro,"API, Git, Linux, Machine Learning, PyTorch, R, Spark, Tableau",https://example.com/job/94
+95,Business Analyst - Lead,Business Analyst,Mumbai,Freshworks,"ETL, Hadoop, Linux, NumPy, Pandas, Tableau, scikit-learn",https://example.com/job/95
+96,Business Analyst - Junior,Business Analyst,Pune,Accenture,"API, Deep Learning, Kubernetes, Power BI, Tableau",https://example.com/job/96
+97,Business Analyst - Junior,Business Analyst,Bengaluru,Amazon,"API, Airflow, Deep Learning, GCP, Hadoop, Kubernetes, NumPy",https://example.com/job/97
+98,ML Engineer - Lead,ML Engineer,Pune,Flipkart,"A/B Testing, ETL, GCP, Git, Power BI, PyTorch, R, Statistics",https://example.com/job/98
+99,Business Analyst - Lead,Business Analyst,Hyderabad,TCS,"A/B Testing, Azure, Data Visualization, Pandas, PyTorch, R, Spark, scikit-learn",https://example.com/job/99
+100,Data Analyst - Junior,Data Analyst,Kolkata,TCS,"Airflow, Azure, Hadoop, Statistics, TensorFlow",https://example.com/job/100
+101,Data Scientist - Lead,Data Scientist,Delhi,Freshworks,"Communication, ETL, GCP, Python, Tableau",https://example.com/job/101
+102,Data Analyst - Lead,Data Analyst,Mumbai,Flipkart,"ETL, Git, Kubernetes, R, Statistics",https://example.com/job/102
+103,BI Developer - Senior,BI Developer,Noida,Wipro,"Azure, Hadoop, Linux, NumPy, R",https://example.com/job/103
+104,Data Analyst - Junior,Data Analyst,Bengaluru,Freshworks,"API, Airflow, Data Visualization, ETL, Hadoop, NLP, Power BI, Tableau",https://example.com/job/104
+105,Business Analyst - Lead,Business Analyst,Bengaluru,TCS,"AWS, Airflow, Communication, GCP, Git, Linux, Spark",https://example.com/job/105
+106,Data Analyst - Senior,Data Analyst,Noida,Accenture,"API, Excel, Git, Kubernetes, Linux, NLP, NumPy, R",https://example.com/job/106
+107,BI Developer - Lead,BI Developer,Chennai,Deloitte,"API, Kubernetes, NLP, Pandas, Python",https://example.com/job/107
+108,Business Analyst - Senior,Business Analyst,Delhi,Wipro,"A/B Testing, Data Visualization, Kubernetes, Linux, NumPy, TensorFlow",https://example.com/job/108
+109,BI Developer,BI Developer,Noida,PhonePe,"Communication, Data Visualization, Deep Learning, Docker, GCP, Pandas, Statistics, TensorFlow",https://example.com/job/109
+110,Data Analyst - Senior,Data Analyst,Mumbai,TCS,"Excel, Linux, PyTorch, Python, R, Tableau",https://example.com/job/110
+111,Data Analyst - Junior,Data Analyst,Bengaluru,Infosys,"A/B Testing, API, Airflow, Communication, Docker, Kubernetes, NLP, Power BI",https://example.com/job/111
+112,ML Engineer - Senior,ML Engineer,Bengaluru,Accenture,"A/B Testing, API, Linux, Pandas, R, SQL",https://example.com/job/112
+113,Business Analyst - Junior,Business Analyst,Noida,Wipro,"A/B Testing, Azure, NumPy, Pandas, Python, SQL, TensorFlow",https://example.com/job/113
+114,Business Analyst - Lead,Business Analyst,Kolkata,Amazon,"A/B Testing, Data Visualization, Machine Learning, Spark, scikit-learn",https://example.com/job/114
+115,Data Analyst - Junior,Data Analyst,Chennai,Amazon,"Airflow, Communication, ETL, R, Spark, Statistics",https://example.com/job/115
+116,Business Analyst,Business Analyst,Mumbai,TCS,"A/B Testing, Deep Learning, ETL, Git, Hadoop, PyTorch, R, SQL, scikit-learn",https://example.com/job/116
+117,BI Developer - Lead,BI Developer,Pune,Freshworks,"API, Deep Learning, Excel, Pandas, Spark, scikit-learn",https://example.com/job/117
+118,Data Analyst - Junior,Data Analyst,Noida,Amazon,"AWS, Azure, Kubernetes, PyTorch, SQL",https://example.com/job/118
+119,Data Analyst - Senior,Data Analyst,Pune,Deloitte,"A/B Testing, AWS, GCP, Hadoop, Kubernetes, Linux, NumPy",https://example.com/job/119
+120,BI Developer - Lead,BI Developer,Kolkata,Freshworks,"A/B Testing, Docker, NLP, Power BI, Tableau, TensorFlow",https://example.com/job/120
+121,ML Engineer - Senior,ML Engineer,Hyderabad,Wipro,"A/B Testing, Communication, Data Visualization, Deep Learning, ETL, Hadoop, NLP, PyTorch, scikit-learn",https://example.com/job/121
+122,Data Scientist - Lead,Data Scientist,Pune,Wipro,"API, Git, NLP, NumPy, Power BI, Tableau",https://example.com/job/122
+123,Data Scientist - Lead,Data Scientist,Mumbai,Deloitte,"AWS, Excel, GCP, Machine Learning, NLP, Pandas, Power BI, R",https://example.com/job/123
+124,Data Scientist,Data Scientist,Hyderabad,TCS,"A/B Testing, Azure, Data Visualization, Linux, Tableau",https://example.com/job/124
+125,BI Developer - Senior,BI Developer,Chennai,Freshworks,"Azure, Data Visualization, Deep Learning, Docker, GCP, NLP, SQL, TensorFlow",https://example.com/job/125
+126,ML Engineer - Lead,ML Engineer,Mumbai,Flipkart,"Docker, Hadoop, NLP, Python, Spark",https://example.com/job/126
+127,Data Scientist - Junior,Data Scientist,Pune,Flipkart,"Communication, ETL, Excel, Linux, NumPy, Pandas",https://example.com/job/127
+128,Data Scientist - Junior,Data Scientist,Pune,Freshworks,"A/B Testing, AWS, GCP, Machine Learning, Pandas, PyTorch, Python, Spark",https://example.com/job/128
+129,ML Engineer - Senior,ML Engineer,Delhi,Flipkart,"AWS, Communication, Data Visualization, Hadoop, Linux, NLP, NumPy, R, SQL",https://example.com/job/129
+130,ML Engineer - Lead,ML Engineer,Pune,Infosys,"A/B Testing, API, Hadoop, Pandas",https://example.com/job/130
+131,ML Engineer - Senior,ML Engineer,Noida,Wipro,"API, Airflow, ETL, Excel, Machine Learning, NLP, Pandas, Spark",https://example.com/job/131
+132,Business Analyst,Business Analyst,Chennai,Deloitte,"A/B Testing, Machine Learning, NLP, Pandas, Spark",https://example.com/job/132
+133,ML Engineer,ML Engineer,Hyderabad,Wipro,"Data Visualization, ETL, Machine Learning, NLP, PyTorch, SQL, Spark, TensorFlow",https://example.com/job/133
+134,Business Analyst - Lead,Business Analyst,Mumbai,Flipkart,"Data Visualization, ETL, Linux, Machine Learning, Python, R, Tableau",https://example.com/job/134
+135,Data Analyst - Lead,Data Analyst,Hyderabad,Freshworks,"Excel, Linux, Machine Learning, NumPy, Power BI, PyTorch, Tableau",https://example.com/job/135
+136,BI Developer - Lead,BI Developer,Bengaluru,Accenture,"Deep Learning, Docker, Excel, Pandas, SQL, Spark",https://example.com/job/136
+137,ML Engineer - Senior,ML Engineer,Delhi,Swiggy,"R, Spark, Tableau",https://example.com/job/137
+138,BI Developer - Senior,BI Developer,Kolkata,Amazon,"API, AWS, Airflow, Azure, Docker, NLP, SQL, Spark",https://example.com/job/138
+139,Business Analyst - Junior,Business Analyst,Kolkata,Freshworks,"A/B Testing, ETL, Git, R, SQL, Spark, Tableau",https://example.com/job/139
+140,Data Scientist - Senior,Data Scientist,Chennai,Amazon,"Airflow, Linux, Machine Learning, NLP, PyTorch, SQL, scikit-learn",https://example.com/job/140
+141,Business Analyst - Lead,Business Analyst,Chennai,PhonePe,"Git, Kubernetes, Pandas, PyTorch, R, Spark, scikit-learn",https://example.com/job/141
+142,ML Engineer - Lead,ML Engineer,Bengaluru,Accenture,"Machine Learning, NLP, Statistics, TensorFlow, scikit-learn",https://example.com/job/142
+143,Data Analyst,Data Analyst,Chennai,PhonePe,"A/B Testing, AWS, ETL, Excel, R, Spark, Statistics",https://example.com/job/143
+144,BI Developer - Senior,BI Developer,Chennai,Freshworks,"Data Visualization, Kubernetes, NLP, R, SQL",https://example.com/job/144
+145,Data Scientist - Senior,Data Scientist,Bengaluru,TCS,"Azure, Excel, Kubernetes, Linux, Python, Tableau",https://example.com/job/145
+146,Business Analyst - Lead,Business Analyst,Hyderabad,Wipro,"API, Azure, NLP, TensorFlow",https://example.com/job/146
+147,Data Analyst - Junior,Data Analyst,Noida,Infosys,"Azure, Deep Learning, Git, Machine Learning, NLP, SQL, Statistics",https://example.com/job/147
+148,Data Scientist,Data Scientist,Noida,PhonePe,"Deep Learning, Excel, NLP, Pandas, Python, Tableau",https://example.com/job/148
+149,Data Analyst - Junior,Data Analyst,Delhi,Wipro,"A/B Testing, GCP, Linux, Spark, Statistics, scikit-learn",https://example.com/job/149
+150,Business Analyst - Junior,Business Analyst,Mumbai,Deloitte,"API, Communication, Data Visualization, GCP, Linux, NumPy",https://example.com/job/150
+151,Data Analyst - Junior,Data Analyst,Kolkata,Freshworks,"Communication, Docker, SQL, Tableau, TensorFlow",https://example.com/job/151
+152,ML Engineer - Lead,ML Engineer,Kolkata,Amazon,"API, Communication, Excel, Spark, Tableau",https://example.com/job/152
+153,Data Scientist,Data Scientist,Chennai,Flipkart,"A/B Testing, GCP, Machine Learning, PyTorch, scikit-learn",https://example.com/job/153
+154,Business Analyst - Lead,Business Analyst,Kolkata,Freshworks,"Communication, ETL, Git, NumPy, Python, Statistics, Tableau",https://example.com/job/154
+155,ML Engineer - Senior,ML Engineer,Chennai,Swiggy,"Azure, ETL, NumPy, Python, Statistics, scikit-learn",https://example.com/job/155
+156,Data Analyst - Senior,Data Analyst,Hyderabad,Freshworks,"Airflow, Git, Machine Learning, Spark, Tableau",https://example.com/job/156
+157,BI Developer,BI Developer,Bengaluru,Flipkart,"A/B Testing, Data Visualization, Deep Learning, GCP, Linux, NumPy, Pandas",https://example.com/job/157
+158,Business Analyst,Business Analyst,Kolkata,Swiggy,"AWS, Airflow, Hadoop, PyTorch, R",https://example.com/job/158
+159,Business Analyst,Business Analyst,Pune,PhonePe,"Communication, Power BI, Statistics",https://example.com/job/159
+160,Business Analyst,Business Analyst,Pune,PhonePe,"Docker, Linux, NumPy, Spark",https://example.com/job/160
+161,Business Analyst - Junior,Business Analyst,Noida,Wipro,"Data Visualization, Pandas, Python, SQL, TensorFlow, scikit-learn",https://example.com/job/161
+162,BI Developer - Senior,BI Developer,Noida,Deloitte,"Data Visualization, GCP, Linux, SQL, Statistics, scikit-learn",https://example.com/job/162
+163,Data Scientist - Junior,Data Scientist,Hyderabad,Amazon,"Airflow, Kubernetes, Pandas, Power BI, R, SQL",https://example.com/job/163
+164,ML Engineer - Junior,ML Engineer,Noida,Freshworks,"Communication, Linux, NLP, Pandas, SQL, TensorFlow",https://example.com/job/164
+165,BI Developer - Senior,BI Developer,Chennai,Swiggy,"API, AWS, Communication, Docker, NumPy, Power BI",https://example.com/job/165
+166,Data Analyst - Junior,Data Analyst,Kolkata,Deloitte,"Communication, Git, Machine Learning, NLP, R",https://example.com/job/166
+167,Data Scientist - Junior,Data Scientist,Pune,Accenture,"A/B Testing, Deep Learning, Excel, NumPy, Statistics, TensorFlow, scikit-learn",https://example.com/job/167
+168,Data Analyst,Data Analyst,Pune,Flipkart,"Communication, Deep Learning, NumPy, Power BI, Python, Tableau",https://example.com/job/168
+169,Data Analyst - Senior,Data Analyst,Mumbai,Infosys,"API, Data Visualization, Docker, GCP, Kubernetes, Linux, SQL, Tableau",https://example.com/job/169
+170,ML Engineer - Lead,ML Engineer,Pune,Accenture,"Airflow, Communication, Data Visualization, Pandas, R, Spark, Tableau",https://example.com/job/170
+171,Data Scientist - Senior,Data Scientist,Noida,Deloitte,"Azure, ETL, Excel, NumPy, Python, Statistics, scikit-learn",https://example.com/job/171
+172,ML Engineer - Junior,ML Engineer,Noida,Wipro,"Deep Learning, Git, Kubernetes, NumPy, Pandas, R, Spark, scikit-learn",https://example.com/job/172
+173,Business Analyst - Lead,Business Analyst,Chennai,Accenture,"Kubernetes, Linux, R, SQL, scikit-learn",https://example.com/job/173
+174,Business Analyst - Junior,Business Analyst,Mumbai,Swiggy,"ETL, Hadoop, PyTorch, Python, Tableau",https://example.com/job/174
+175,Data Scientist,Data Scientist,Pune,TCS,"Communication, Linux, Machine Learning, Pandas, Power BI, SQL, Statistics, Tableau",https://example.com/job/175
+176,Data Analyst - Lead,Data Analyst,Noida,Wipro,"Communication, Data Visualization, ETL, Pandas, Statistics",https://example.com/job/176
+177,Data Analyst - Junior,Data Analyst,Chennai,PhonePe,"Docker, ETL, Kubernetes, Linux, PyTorch, Python, Spark",https://example.com/job/177
+178,Business Analyst - Senior,Business Analyst,Delhi,Freshworks,"AWS, ETL, GCP, Hadoop, Python, Statistics, Tableau",https://example.com/job/178
+179,BI Developer - Junior,BI Developer,Bengaluru,Amazon,"A/B Testing, AWS, Communication, Docker, ETL, TensorFlow",https://example.com/job/179
+180,Data Analyst - Junior,Data Analyst,Hyderabad,Swiggy,"Data Visualization, ETL, GCP, NumPy, Power BI, Python, SQL, Tableau, TensorFlow",https://example.com/job/180
+181,BI Developer - Junior,BI Developer,Kolkata,Infosys,"A/B Testing, Docker, GCP, Linux, NLP, NumPy",https://example.com/job/181
+182,Data Scientist - Junior,Data Scientist,Noida,Amazon,"Communication, Excel, Kubernetes, R, Spark",https://example.com/job/182
+183,BI Developer - Junior,BI Developer,Hyderabad,Infosys,"Airflow, Deep Learning, Excel, GCP, Kubernetes, Pandas",https://example.com/job/183
+184,ML Engineer - Junior,ML Engineer,Mumbai,Flipkart,"Azure, Data Visualization, Deep Learning, Docker, Git, PyTorch, R, Statistics",https://example.com/job/184
+185,ML Engineer,ML Engineer,Pune,PhonePe,"API, Hadoop, NumPy, R",https://example.com/job/185
+186,ML Engineer - Lead,ML Engineer,Kolkata,Infosys,"Azure, Hadoop, Python, SQL",https://example.com/job/186
+187,Data Scientist,Data Scientist,Chennai,Swiggy,"Data Visualization, Deep Learning, ETL, Kubernetes, NLP, NumPy, R, scikit-learn",https://example.com/job/187
+188,BI Developer - Junior,BI Developer,Kolkata,Deloitte,"Excel, NumPy, PyTorch, Python, R",https://example.com/job/188
+189,Data Scientist - Junior,Data Scientist,Bengaluru,Freshworks,"API, Linux, SQL, Statistics",https://example.com/job/189
+190,Data Scientist - Junior,Data Scientist,Noida,PhonePe,"Airflow, Azure, Excel, NumPy, SQL, scikit-learn",https://example.com/job/190
+191,ML Engineer,ML Engineer,Delhi,Accenture,"AWS, Airflow, Kubernetes, Spark, TensorFlow",https://example.com/job/191
+192,Business Analyst - Senior,Business Analyst,Kolkata,Amazon,"AWS, Docker, Hadoop, NumPy, Pandas, PyTorch, Python, Statistics",https://example.com/job/192
+193,BI Developer,BI Developer,Pune,Deloitte,"Git, Machine Learning, Tableau, scikit-learn",https://example.com/job/193
+194,Data Analyst,Data Analyst,Pune,TCS,"A/B Testing, Docker, Git, Hadoop, PyTorch",https://example.com/job/194
+195,Data Scientist - Lead,Data Scientist,Chennai,Amazon,"Data Visualization, Docker, Linux, Pandas, SQL, Tableau, scikit-learn",https://example.com/job/195
+196,ML Engineer - Senior,ML Engineer,Hyderabad,Flipkart,"A/B Testing, API, Kubernetes, Python, Spark, Statistics",https://example.com/job/196
+197,ML Engineer - Junior,ML Engineer,Hyderabad,Flipkart,"Deep Learning, Docker, PyTorch, scikit-learn",https://example.com/job/197
+198,BI Developer - Lead,BI Developer,Chennai,TCS,"Docker, GCP, Machine Learning, Power BI, Spark",https://example.com/job/198
+199,Business Analyst,Business Analyst,Mumbai,Freshworks,"AWS, Data Visualization, ETL, Git, NumPy, Pandas, TensorFlow",https://example.com/job/199
+200,Data Analyst - Junior,Data Analyst,Kolkata,Deloitte,"Airflow, Deep Learning, Git, Hadoop, Linux, Machine Learning, Spark",https://example.com/job/200
+201,ML Engineer - Lead,ML Engineer,Noida,TCS,"API, AWS, Azure, Deep Learning, Hadoop, PyTorch, SQL, Statistics",https://example.com/job/201
+202,BI Developer - Senior,BI Developer,Mumbai,Flipkart,"Data Visualization, GCP, Git, Hadoop, PyTorch, Spark",https://example.com/job/202
+203,Data Analyst - Lead,Data Analyst,Mumbai,Amazon,"NLP, Power BI, PyTorch, SQL, TensorFlow, scikit-learn",https://example.com/job/203
+204,BI Developer - Senior,BI Developer,Chennai,PhonePe,"Data Visualization, Git, Hadoop, Power BI, PyTorch, scikit-learn",https://example.com/job/204
+205,Data Analyst - Junior,Data Analyst,Chennai,TCS,"Deep Learning, Docker, Python, TensorFlow",https://example.com/job/205
+206,BI Developer - Junior,BI Developer,Kolkata,Accenture,"Data Visualization, Hadoop, Kubernetes, Machine Learning, Power BI, Statistics, Tableau",https://example.com/job/206
+207,Data Scientist - Junior,Data Scientist,Mumbai,TCS,"Data Visualization, ETL, Excel, Hadoop, Power BI, R",https://example.com/job/207
+208,Data Analyst - Senior,Data Analyst,Pune,Accenture,"Linux, NumPy, Power BI, PyTorch, SQL, Statistics",https://example.com/job/208
+209,ML Engineer - Junior,ML Engineer,Chennai,TCS,"A/B Testing, AWS, Pandas, R",https://example.com/job/209
+210,Data Scientist - Senior,Data Scientist,Delhi,TCS,"Azure, GCP, Kubernetes, NumPy, Power BI, Python, Statistics, Tableau",https://example.com/job/210
+211,ML Engineer - Senior,ML Engineer,Bengaluru,Flipkart,"AWS, Azure, Communication, Deep Learning, Python, Statistics",https://example.com/job/211
+212,Data Scientist - Senior,Data Scientist,Bengaluru,Wipro,"Airflow, Git, Power BI, PyTorch, scikit-learn",https://example.com/job/212
+213,Data Analyst,Data Analyst,Pune,Amazon,"Azure, ETL, Excel, NumPy, Power BI, PyTorch, R, scikit-learn",https://example.com/job/213
+214,Data Scientist - Junior,Data Scientist,Chennai,Deloitte,"Communication, NLP, PyTorch, SQL, Tableau, scikit-learn",https://example.com/job/214
+215,Data Scientist,Data Scientist,Noida,Accenture,"API, AWS, Communication, Pandas, PyTorch, Tableau",https://example.com/job/215
+216,BI Developer - Senior,BI Developer,Delhi,Swiggy,"API, Deep Learning, GCP, Git, Statistics",https://example.com/job/216
+217,Business Analyst,Business Analyst,Delhi,Freshworks,"A/B Testing, Deep Learning, Docker, Excel, Hadoop, SQL",https://example.com/job/217
+218,ML Engineer - Senior,ML Engineer,Kolkata,Deloitte,"Communication, Deep Learning, Kubernetes, Machine Learning, Pandas, Power BI, Python, SQL",https://example.com/job/218
+219,Business Analyst - Senior,Business Analyst,Hyderabad,Infosys,"AWS, Communication, Docker, ETL, GCP, PyTorch, SQL, scikit-learn",https://example.com/job/219
+220,Data Scientist - Senior,Data Scientist,Hyderabad,TCS,"Azure, Communication, Deep Learning, GCP, Git, Kubernetes, Machine Learning, PyTorch, Python",https://example.com/job/220
+221,Data Analyst - Lead,Data Analyst,Mumbai,Infosys,"A/B Testing, Azure, Data Visualization, Deep Learning, Pandas, scikit-learn",https://example.com/job/221
+222,Data Scientist - Junior,Data Scientist,Chennai,PhonePe,"Communication, Docker, NLP, Power BI, Statistics, TensorFlow",https://example.com/job/222
+223,Business Analyst - Lead,Business Analyst,Chennai,TCS,"A/B Testing, Deep Learning, Excel, Git, Kubernetes, Linux, NLP, Statistics",https://example.com/job/223
+224,Data Analyst - Senior,Data Analyst,Pune,Amazon,"A/B Testing, AWS, Deep Learning, ETL, SQL, scikit-learn",https://example.com/job/224
+225,ML Engineer - Lead,ML Engineer,Noida,PhonePe,"A/B Testing, Azure, Data Visualization, Deep Learning, ETL, GCP, Hadoop, Linux, R",https://example.com/job/225
+226,Data Scientist - Senior,Data Scientist,Noida,TCS,"API, Airflow, ETL, Power BI, Tableau",https://example.com/job/226
+227,Data Scientist - Senior,Data Scientist,Hyderabad,TCS,"Deep Learning, NLP, Power BI, PyTorch, SQL, Tableau",https://example.com/job/227
+228,ML Engineer - Senior,ML Engineer,Noida,Accenture,"Communication, Deep Learning, Excel, NLP, Python, Tableau",https://example.com/job/228
+229,BI Developer - Lead,BI Developer,Delhi,Infosys,"A/B Testing, Airflow, GCP, NLP, Power BI, Statistics",https://example.com/job/229
+230,Data Scientist - Lead,Data Scientist,Bengaluru,TCS,"Pandas, Power BI, PyTorch, R, scikit-learn",https://example.com/job/230
+231,Business Analyst - Junior,Business Analyst,Noida,Wipro,"A/B Testing, Git, Power BI, PyTorch, Python, SQL, Spark, TensorFlow",https://example.com/job/231
+232,Business Analyst - Junior,Business Analyst,Hyderabad,Swiggy,"API, Data Visualization, Machine Learning, PyTorch, SQL, Spark, TensorFlow, scikit-learn",https://example.com/job/232
+233,Business Analyst - Junior,Business Analyst,Delhi,Wipro,"A/B Testing, API, AWS, Python, Tableau",https://example.com/job/233
+234,BI Developer - Junior,BI Developer,Mumbai,Deloitte,"A/B Testing, ETL, Power BI, TensorFlow",https://example.com/job/234
+235,Business Analyst - Lead,Business Analyst,Mumbai,Deloitte,"API, Communication, Data Visualization, ETL, Linux, NumPy, R, Spark, Statistics",https://example.com/job/235
+236,ML Engineer - Lead,ML Engineer,Mumbai,Freshworks,"Deep Learning, GCP, Git, SQL, Statistics, Tableau",https://example.com/job/236
+237,Data Analyst,Data Analyst,Kolkata,Swiggy,"Communication, Docker, Power BI, Python",https://example.com/job/237
+238,BI Developer - Senior,BI Developer,Chennai,Deloitte,"API, Communication, Kubernetes, Python, R, SQL",https://example.com/job/238
+239,Data Scientist,Data Scientist,Mumbai,Deloitte,"Airflow, Azure, Deep Learning, ETL, Hadoop, Python, Spark, Statistics",https://example.com/job/239
+240,Data Scientist - Junior,Data Scientist,Chennai,TCS,"AWS, Airflow, Azure, Communication, Docker, NLP, Tableau, TensorFlow",https://example.com/job/240
+241,BI Developer - Senior,BI Developer,Kolkata,Accenture,"AWS, Airflow, Azure, Deep Learning, GCP, Hadoop, NLP, SQL, Statistics",https://example.com/job/241
+242,ML Engineer - Junior,ML Engineer,Hyderabad,Accenture,"Airflow, Docker, Excel, Hadoop, Kubernetes, NumPy, Power BI, SQL",https://example.com/job/242
+243,ML Engineer,ML Engineer,Delhi,Accenture,"A/B Testing, Airflow, Deep Learning, Docker, ETL, Linux, Statistics",https://example.com/job/243
+244,Data Scientist - Junior,Data Scientist,Bengaluru,Swiggy,"API, AWS, Airflow, ETL, Machine Learning, Power BI",https://example.com/job/244
+245,Data Scientist - Junior,Data Scientist,Pune,Flipkart,"AWS, Communication, NumPy, Pandas, Python, Statistics, scikit-learn",https://example.com/job/245
+246,ML Engineer - Senior,ML Engineer,Bengaluru,Freshworks,"AWS, Communication, Docker, Excel, PyTorch",https://example.com/job/246
+247,Data Analyst - Junior,Data Analyst,Hyderabad,Accenture,"A/B Testing, API, AWS, Communication, Data Visualization, R, SQL",https://example.com/job/247
+248,BI Developer - Junior,BI Developer,Pune,TCS,"Deep Learning, Docker, GCP, Linux, NumPy, Power BI",https://example.com/job/248
+249,BI Developer - Junior,BI Developer,Noida,TCS,"Deep Learning, Kubernetes, Linux, NumPy, SQL, Spark, Tableau",https://example.com/job/249
+250,Data Scientist - Lead,Data Scientist,Hyderabad,Swiggy,"Hadoop, Kubernetes, PyTorch, Python, Tableau",https://example.com/job/250
+251,Data Analyst - Senior,Data Analyst,Bengaluru,Freshworks,"AWS, Deep Learning, Docker, ETL, Spark, Tableau",https://example.com/job/251
+252,BI Developer - Lead,BI Developer,Bengaluru,Amazon,"Communication, Data Visualization, ETL, Excel, Hadoop, Pandas, Spark, TensorFlow",https://example.com/job/252
+253,Business Analyst - Junior,Business Analyst,Pune,Amazon,"GCP, Git, PyTorch, Python, R, Statistics, Tableau",https://example.com/job/253
+254,Data Scientist,Data Scientist,Hyderabad,Deloitte,"Deep Learning, Git, Linux, PyTorch, R, Statistics, Tableau",https://example.com/job/254
+255,Data Analyst,Data Analyst,Delhi,Freshworks,"Kubernetes, Machine Learning, NLP, PyTorch, scikit-learn",https://example.com/job/255
+256,Data Scientist - Lead,Data Scientist,Bengaluru,Amazon,"A/B Testing, Airflow, Azure, Hadoop, NLP, PyTorch, R",https://example.com/job/256
+257,Business Analyst - Lead,Business Analyst,Noida,Accenture,"AWS, Azure, Deep Learning, ETL, Git, Kubernetes, Pandas, Tableau",https://example.com/job/257
+258,Business Analyst - Junior,Business Analyst,Mumbai,Wipro,"API, Airflow, Communication, TensorFlow",https://example.com/job/258
+259,Business Analyst - Senior,Business Analyst,Bengaluru,Freshworks,"Communication, Deep Learning, Git, Linux, PyTorch, Spark, Statistics, TensorFlow",https://example.com/job/259
+260,ML Engineer - Senior,ML Engineer,Pune,Deloitte,"A/B Testing, Airflow, Data Visualization, Kubernetes, NumPy",https://example.com/job/260
+261,Data Analyst - Junior,Data Analyst,Delhi,Flipkart,"GCP, Hadoop, Kubernetes, NumPy, SQL, scikit-learn",https://example.com/job/261
+262,Data Analyst - Junior,Data Analyst,Mumbai,Infosys,"Communication, ETL, NLP, Python, SQL, Statistics, TensorFlow, scikit-learn",https://example.com/job/262
+263,Data Analyst - Lead,Data Analyst,Delhi,Amazon,"Data Visualization, Docker, ETL, Kubernetes, Power BI, Python, Spark",https://example.com/job/263
+264,Data Analyst - Lead,Data Analyst,Bengaluru,Swiggy,"API, AWS, Git, Kubernetes, Python, TensorFlow",https://example.com/job/264
+265,Business Analyst,Business Analyst,Kolkata,Freshworks,"Communication, Docker, Hadoop, Pandas, Python, Tableau",https://example.com/job/265
+266,Data Analyst - Lead,Data Analyst,Pune,Flipkart,"Data Visualization, Deep Learning, Docker, Git, Pandas, PyTorch, Statistics, Tableau",https://example.com/job/266
+267,ML Engineer - Lead,ML Engineer,Kolkata,PhonePe,"API, Excel, GCP, Git, Hadoop, NLP, Python, Spark, scikit-learn",https://example.com/job/267
+268,Business Analyst - Senior,Business Analyst,Mumbai,Flipkart,"A/B Testing, Python, R, SQL, Tableau",https://example.com/job/268
+269,BI Developer - Senior,BI Developer,Delhi,Deloitte,"A/B Testing, API, Linux, Power BI, PyTorch, Python, Tableau",https://example.com/job/269
+270,Data Scientist,Data Scientist,Noida,Accenture,"A/B Testing, ETL, Excel, GCP, Linux, NLP, PyTorch, R, TensorFlow",https://example.com/job/270
+271,ML Engineer - Junior,ML Engineer,Pune,Accenture,"API, Airflow, Azure, Data Visualization, Linux",https://example.com/job/271
+272,Data Scientist - Lead,Data Scientist,Kolkata,TCS,"A/B Testing, GCP, Git, NLP, NumPy, Pandas, scikit-learn",https://example.com/job/272
+273,BI Developer,BI Developer,Mumbai,Deloitte,"API, Kubernetes, Python, SQL, Tableau, TensorFlow",https://example.com/job/273
+274,Data Scientist - Lead,Data Scientist,Mumbai,Freshworks,"GCP, Kubernetes, Pandas, PyTorch, Statistics",https://example.com/job/274
+275,ML Engineer,ML Engineer,Mumbai,Wipro,"Excel, Git, Linux, Python, Tableau, scikit-learn",https://example.com/job/275
+276,Business Analyst - Senior,Business Analyst,Bengaluru,Swiggy,"Communication, Deep Learning, Git, Kubernetes, Linux, PyTorch, Python, SQL",https://example.com/job/276
+277,Data Scientist - Junior,Data Scientist,Delhi,TCS,"Communication, Deep Learning, Excel, Kubernetes, R, Statistics, Tableau",https://example.com/job/277
+278,ML Engineer,ML Engineer,Mumbai,TCS,"A/B Testing, Deep Learning, Hadoop, Power BI, Tableau",https://example.com/job/278
+279,Data Analyst,Data Analyst,Pune,Infosys,"Communication, Git, Kubernetes, NumPy, Pandas, Power BI, PyTorch, scikit-learn",https://example.com/job/279
+280,Data Analyst - Senior,Data Analyst,Kolkata,PhonePe,"API, GCP, Machine Learning, R, TensorFlow, scikit-learn",https://example.com/job/280
+281,Business Analyst - Lead,Business Analyst,Chennai,Flipkart,"A/B Testing, AWS, Airflow, Azure, ETL, Kubernetes, Tableau",https://example.com/job/281
+282,Data Analyst - Lead,Data Analyst,Delhi,Freshworks,"Communication, Data Visualization, ETL, Git, NLP, R, SQL",https://example.com/job/282
+283,ML Engineer,ML Engineer,Pune,PhonePe,"Deep Learning, GCP, NLP, Spark, Statistics",https://example.com/job/283
+284,Business Analyst - Senior,Business Analyst,Chennai,Flipkart,"ETL, Git, NLP, NumPy, PyTorch, R",https://example.com/job/284
+285,Data Analyst - Lead,Data Analyst,Delhi,Deloitte,"Communication, Hadoop, Linux, Spark",https://example.com/job/285
+286,Data Scientist - Junior,Data Scientist,Mumbai,PhonePe,"API, Deep Learning, NLP, Pandas, Power BI, PyTorch, Tableau",https://example.com/job/286
+287,Data Analyst,Data Analyst,Pune,Amazon,"ETL, Excel, NumPy, PyTorch, Tableau",https://example.com/job/287
+288,BI Developer,BI Developer,Hyderabad,Infosys,"Communication, Excel, GCP, NLP, Power BI, scikit-learn",https://example.com/job/288
+289,BI Developer - Junior,BI Developer,Mumbai,Wipro,"AWS, Hadoop, NumPy, Pandas, PyTorch, Python",https://example.com/job/289
+290,BI Developer - Junior,BI Developer,Hyderabad,Freshworks,"Communication, Docker, NLP, NumPy, Power BI, SQL, TensorFlow, scikit-learn",https://example.com/job/290
+291,Data Analyst - Senior,Data Analyst,Delhi,Flipkart,"API, AWS, Communication, Linux, Machine Learning, scikit-learn",https://example.com/job/291
+292,Data Analyst,Data Analyst,Hyderabad,Flipkart,"AWS, ETL, Linux, NLP, Power BI, PyTorch, Statistics",https://example.com/job/292
+293,BI Developer - Junior,BI Developer,Pune,Accenture,"A/B Testing, AWS, Hadoop, SQL, TensorFlow",https://example.com/job/293
+294,ML Engineer - Junior,ML Engineer,Kolkata,Freshworks,"API, Airflow, Communication, GCP, Git",https://example.com/job/294
+295,Data Scientist,Data Scientist,Bengaluru,Flipkart,"A/B Testing, Deep Learning, ETL, Hadoop, Spark",https://example.com/job/295
+296,ML Engineer - Lead,ML Engineer,Kolkata,PhonePe,"AWS, Docker, GCP, Python, SQL, Spark, Statistics, TensorFlow",https://example.com/job/296
+297,Data Scientist - Junior,Data Scientist,Noida,Accenture,"Azure, Communication, Deep Learning, R, Spark, Statistics",https://example.com/job/297
+298,ML Engineer - Senior,ML Engineer,Kolkata,Amazon,"Git, Hadoop, NumPy, PyTorch, Python, TensorFlow, scikit-learn",https://example.com/job/298
+299,Business Analyst,Business Analyst,Hyderabad,PhonePe,"AWS, Airflow, Deep Learning, GCP, Kubernetes, NumPy, TensorFlow",https://example.com/job/299
+300,Data Scientist - Senior,Data Scientist,Kolkata,PhonePe,"Communication, GCP, Linux, NLP, PyTorch, Tableau",https://example.com/job/300
+301,Data Analyst - Junior,Data Analyst,Pune,PhonePe,"API, ETL, Pandas, R, SQL",https://example.com/job/301
+302,ML Engineer - Senior,ML Engineer,Hyderabad,Accenture,"API, ETL, GCP, Kubernetes, R, Statistics",https://example.com/job/302
+303,ML Engineer - Junior,ML Engineer,Bengaluru,Wipro,"Airflow, Docker, Linux, Power BI, SQL, Statistics",https://example.com/job/303
+304,Data Scientist - Senior,Data Scientist,Noida,Deloitte,"Airflow, Communication, ETL, GCP, Hadoop, Machine Learning, Pandas, Tableau",https://example.com/job/304
+305,Data Analyst,Data Analyst,Kolkata,Accenture,"Deep Learning, Linux, NLP, NumPy, R, Tableau",https://example.com/job/305
+306,Data Scientist - Senior,Data Scientist,Kolkata,Swiggy,"Airflow, Pandas, Statistics, TensorFlow, scikit-learn",https://example.com/job/306
+307,Data Scientist - Lead,Data Scientist,Hyderabad,Amazon,"API, Airflow, Git, NLP, Pandas",https://example.com/job/307
+308,Business Analyst - Senior,Business Analyst,Chennai,Deloitte,"Airflow, Azure, Communication, Deep Learning, Excel, GCP, Pandas, SQL",https://example.com/job/308
+309,Business Analyst - Senior,Business Analyst,Bengaluru,PhonePe,"A/B Testing, Hadoop, Linux, PyTorch, SQL, Spark, scikit-learn",https://example.com/job/309
+310,Business Analyst - Senior,Business Analyst,Bengaluru,Wipro,"A/B Testing, Excel, Linux, Machine Learning, Spark, Statistics, scikit-learn",https://example.com/job/310
+311,Data Analyst - Senior,Data Analyst,Pune,Wipro,"A/B Testing, GCP, NLP, NumPy, Power BI, R, TensorFlow",https://example.com/job/311
+312,Business Analyst,Business Analyst,Bengaluru,Infosys,"A/B Testing, AWS, Azure, Deep Learning, Excel, R, Statistics, Tableau",https://example.com/job/312
+313,ML Engineer - Junior,ML Engineer,Pune,Amazon,"A/B Testing, Communication, NLP, PyTorch, Python, SQL",https://example.com/job/313
+314,ML Engineer - Senior,ML Engineer,Hyderabad,Deloitte,"Airflow, Excel, Kubernetes, SQL, Spark",https://example.com/job/314
+315,Data Analyst,Data Analyst,Pune,Accenture,"AWS, Airflow, Azure, Hadoop, Pandas, Power BI, Tableau",https://example.com/job/315
+316,Data Scientist - Senior,Data Scientist,Delhi,Infosys,"A/B Testing, API, Deep Learning, Machine Learning, Pandas, Python, Spark, Statistics, Tableau",https://example.com/job/316
+317,Business Analyst,Business Analyst,Kolkata,Flipkart,"Data Visualization, Excel, NLP, Pandas, Statistics",https://example.com/job/317
+318,Data Scientist - Senior,Data Scientist,Kolkata,Infosys,"Data Visualization, Deep Learning, Git, R, Statistics",https://example.com/job/318
+319,Business Analyst - Junior,Business Analyst,Pune,Swiggy,"Linux, Machine Learning, Power BI, Python, Statistics, TensorFlow",https://example.com/job/319
+320,Data Scientist - Senior,Data Scientist,Mumbai,Amazon,"Communication, Deep Learning, Linux, Machine Learning, Pandas",https://example.com/job/320
+321,Data Analyst,Data Analyst,Kolkata,TCS,"A/B Testing, Data Visualization, Linux, Machine Learning, NLP, Power BI, Spark",https://example.com/job/321
+322,Business Analyst - Junior,Business Analyst,Chennai,Amazon,"Deep Learning, ETL, Machine Learning, NumPy, Spark, Statistics",https://example.com/job/322
+323,Business Analyst,Business Analyst,Kolkata,Freshworks,"A/B Testing, API, AWS, Data Visualization, Hadoop, NLP, Statistics, Tableau",https://example.com/job/323
+324,Data Analyst - Senior,Data Analyst,Hyderabad,Accenture,"AWS, Communication, Deep Learning, GCP, Linux, NumPy, Power BI, Spark",https://example.com/job/324
+325,ML Engineer,ML Engineer,Pune,Flipkart,"API, Deep Learning, Linux, Machine Learning, NLP, Pandas",https://example.com/job/325
+326,ML Engineer - Junior,ML Engineer,Hyderabad,Deloitte,"Azure, Data Visualization, ETL, Excel, GCP, Pandas, PyTorch, Python, Spark",https://example.com/job/326
+327,Business Analyst,Business Analyst,Chennai,Freshworks,"Airflow, Azure, Git, Kubernetes, NumPy, Pandas, Power BI, PyTorch, Python",https://example.com/job/327
+328,Data Analyst - Senior,Data Analyst,Chennai,Flipkart,"API, Data Visualization, Kubernetes, Pandas, PyTorch, scikit-learn",https://example.com/job/328
+329,ML Engineer,ML Engineer,Hyderabad,Amazon,"API, ETL, Git, Hadoop, Power BI, Tableau",https://example.com/job/329
+330,BI Developer - Junior,BI Developer,Kolkata,Wipro,"A/B Testing, Airflow, Deep Learning, Excel, NLP, NumPy",https://example.com/job/330
+331,BI Developer - Senior,BI Developer,Chennai,Deloitte,"API, AWS, Data Visualization, GCP, NLP, PyTorch, SQL",https://example.com/job/331
+332,BI Developer,BI Developer,Kolkata,Swiggy,"Deep Learning, Docker, Git, PyTorch, R",https://example.com/job/332
+333,BI Developer,BI Developer,Chennai,Deloitte,"A/B Testing, API, Communication, Kubernetes, R, Tableau, TensorFlow",https://example.com/job/333
+334,Data Scientist - Junior,Data Scientist,Delhi,Flipkart,"Data Visualization, Git, Machine Learning, NumPy, Power BI, Python, Statistics",https://example.com/job/334
+335,BI Developer - Junior,BI Developer,Chennai,Flipkart,"Docker, Git, Hadoop, Linux, PyTorch, R, Spark, TensorFlow",https://example.com/job/335
+336,Data Scientist - Junior,Data Scientist,Delhi,Wipro,"Deep Learning, Git, Hadoop, Linux, Machine Learning, PyTorch, Statistics, TensorFlow",https://example.com/job/336
+337,Data Scientist - Lead,Data Scientist,Hyderabad,Swiggy,"API, AWS, Excel, GCP, NumPy, Power BI, TensorFlow",https://example.com/job/337
+338,Business Analyst - Senior,Business Analyst,Bengaluru,Freshworks,"A/B Testing, Docker, GCP, Machine Learning, NLP, Tableau, TensorFlow",https://example.com/job/338
+339,ML Engineer - Junior,ML Engineer,Chennai,Deloitte,"AWS, Communication, Docker, ETL, Excel, GCP, Hadoop, Python",https://example.com/job/339
+340,BI Developer - Lead,BI Developer,Hyderabad,Freshworks,"A/B Testing, API, Airflow, Azure, Deep Learning, NumPy, SQL",https://example.com/job/340
+341,Data Analyst - Senior,Data Analyst,Hyderabad,Wipro,"A/B Testing, API, AWS, Deep Learning, Git, Machine Learning, NLP",https://example.com/job/341
+342,Business Analyst,Business Analyst,Chennai,Swiggy,"Deep Learning, ETL, Hadoop, Kubernetes, Linux, Power BI, PyTorch, Tableau",https://example.com/job/342
+343,Business Analyst,Business Analyst,Bengaluru,Infosys,"Azure, Deep Learning, Docker, Hadoop, Statistics",https://example.com/job/343
+344,Business Analyst - Senior,Business Analyst,Mumbai,Accenture,"A/B Testing, Deep Learning, Hadoop, Kubernetes",https://example.com/job/344
+345,ML Engineer - Senior,ML Engineer,Hyderabad,Flipkart,"Data Visualization, ETL, Pandas, SQL, scikit-learn",https://example.com/job/345
+346,Data Analyst - Junior,Data Analyst,Pune,Amazon,"A/B Testing, API, Excel, GCP, Hadoop, Pandas, Python",https://example.com/job/346
+347,ML Engineer - Junior,ML Engineer,Hyderabad,Swiggy,"Airflow, Python, Spark, Statistics, scikit-learn",https://example.com/job/347
+348,Business Analyst - Senior,Business Analyst,Pune,Accenture,"Airflow, ETL, Git, Statistics, scikit-learn",https://example.com/job/348
+349,Data Analyst - Senior,Data Analyst,Delhi,TCS,"API, AWS, ETL, SQL, scikit-learn",https://example.com/job/349
+350,Data Analyst,Data Analyst,Chennai,PhonePe,"API, AWS, Azure, Deep Learning, Hadoop, Kubernetes, NLP, R",https://example.com/job/350
+351,Business Analyst,Business Analyst,Bengaluru,Freshworks,"Communication, Deep Learning, GCP, Power BI, PyTorch, Tableau",https://example.com/job/351
+352,ML Engineer - Lead,ML Engineer,Mumbai,Accenture,"A/B Testing, Kubernetes, Machine Learning, Python, SQL",https://example.com/job/352
+353,Data Scientist - Junior,Data Scientist,Hyderabad,Freshworks,"Communication, Data Visualization, Docker, Pandas, Python, R",https://example.com/job/353
+354,Business Analyst - Senior,Business Analyst,Pune,Freshworks,"Data Visualization, ETL, GCP, Git, Kubernetes, Power BI, PyTorch, R, TensorFlow",https://example.com/job/354
+355,Data Analyst - Junior,Data Analyst,Pune,Wipro,"Git, Kubernetes, PyTorch, SQL, Spark, TensorFlow",https://example.com/job/355
+356,Data Analyst,Data Analyst,Hyderabad,Accenture,"API, Communication, ETL, Hadoop, Machine Learning, NLP, Power BI, PyTorch, scikit-learn",https://example.com/job/356
+357,Data Scientist - Senior,Data Scientist,Chennai,Wipro,"AWS, Pandas, Python, Statistics",https://example.com/job/357
+358,Data Analyst - Junior,Data Analyst,Noida,Accenture,"Airflow, Data Visualization, Kubernetes, SQL, Spark, TensorFlow",https://example.com/job/358
+359,Data Scientist - Senior,Data Scientist,Kolkata,Accenture,"AWS, Excel, GCP, Linux, Power BI, Statistics",https://example.com/job/359
+360,BI Developer - Junior,BI Developer,Noida,Freshworks,"Azure, Communication, Deep Learning, R, Spark",https://example.com/job/360
+361,Data Scientist,Data Scientist,Noida,Freshworks,"Git, Linux, NumPy, Pandas, R, Statistics, Tableau",https://example.com/job/361
+362,ML Engineer - Junior,ML Engineer,Delhi,Accenture,"ETL, Git, R, SQL",https://example.com/job/362
+363,Data Scientist - Junior,Data Scientist,Delhi,PhonePe,"A/B Testing, Excel, Linux, NLP, NumPy, Python, Tableau",https://example.com/job/363
+364,Data Analyst - Senior,Data Analyst,Mumbai,PhonePe,"Excel, Hadoop, Kubernetes, Machine Learning, Tableau",https://example.com/job/364
+365,Data Analyst - Junior,Data Analyst,Bengaluru,PhonePe,"Airflow, Communication, Data Visualization, Machine Learning, NLP, SQL",https://example.com/job/365
+366,ML Engineer - Junior,ML Engineer,Chennai,PhonePe,"A/B Testing, ETL, GCP, Python",https://example.com/job/366
+367,Data Analyst,Data Analyst,Delhi,Infosys,"Data Visualization, Deep Learning, Git, Hadoop, Kubernetes, NumPy, SQL",https://example.com/job/367
+368,Business Analyst - Lead,Business Analyst,Hyderabad,Deloitte,"Data Visualization, Git, Machine Learning, Python, SQL, Tableau",https://example.com/job/368
+369,Data Analyst,Data Analyst,Delhi,Swiggy,"A/B Testing, Git, Linux, Pandas, Python, R, SQL, Statistics",https://example.com/job/369
+370,Data Analyst,Data Analyst,Mumbai,TCS,"API, Communication, GCP, NumPy, Power BI, PyTorch, SQL, TensorFlow",https://example.com/job/370
+371,ML Engineer,ML Engineer,Mumbai,Freshworks,"A/B Testing, Azure, Docker, Git, NumPy, scikit-learn",https://example.com/job/371
+372,Data Analyst - Senior,Data Analyst,Pune,PhonePe,"Kubernetes, Linux, Machine Learning, TensorFlow",https://example.com/job/372
+373,Business Analyst - Senior,Business Analyst,Bengaluru,Infosys,"Azure, Docker, Excel, PyTorch, R",https://example.com/job/373
+374,ML Engineer - Senior,ML Engineer,Mumbai,PhonePe,"Linux, NLP, NumPy, R",https://example.com/job/374
+375,BI Developer - Senior,BI Developer,Bengaluru,Accenture,"Communication, Git, Linux, NumPy, Power BI, Python, scikit-learn",https://example.com/job/375
+376,ML Engineer - Lead,ML Engineer,Mumbai,Flipkart,"API, Deep Learning, NumPy, Pandas, Python",https://example.com/job/376
+377,BI Developer - Junior,BI Developer,Mumbai,Freshworks,"AWS, Airflow, Communication, SQL",https://example.com/job/377
+378,Data Analyst - Junior,Data Analyst,Pune,Wipro,"Airflow, Communication, GCP, Hadoop, Kubernetes, Linux, NLP",https://example.com/job/378
+379,Data Analyst - Lead,Data Analyst,Hyderabad,Flipkart,"Azure, Communication, Deep Learning, ETL, GCP, Linux, PyTorch, Python, SQL",https://example.com/job/379
+380,Data Scientist - Senior,Data Scientist,Bengaluru,Amazon,"Deep Learning, Linux, NLP, Power BI, Python, Statistics, Tableau, scikit-learn",https://example.com/job/380
+381,Data Scientist - Senior,Data Scientist,Kolkata,Swiggy,"AWS, Git, NLP, Pandas, SQL, Statistics",https://example.com/job/381
+382,Data Analyst - Junior,Data Analyst,Hyderabad,Deloitte,"API, Communication, Docker, Excel, Machine Learning, PyTorch, Tableau",https://example.com/job/382
+383,Business Analyst - Lead,Business Analyst,Pune,Wipro,"Excel, Hadoop, Machine Learning, NumPy, scikit-learn",https://example.com/job/383
+384,ML Engineer - Senior,ML Engineer,Kolkata,Accenture,"A/B Testing, Docker, Kubernetes, NumPy",https://example.com/job/384
+385,Business Analyst - Junior,Business Analyst,Kolkata,Infosys,"Docker, Excel, GCP, NLP, NumPy, Python",https://example.com/job/385
+386,ML Engineer,ML Engineer,Bengaluru,Infosys,"Azure, GCP, Linux, NumPy, Power BI, R, Spark",https://example.com/job/386
+387,Data Scientist - Junior,Data Scientist,Pune,Infosys,"AWS, Azure, Data Visualization, Git, Hadoop, Linux, Pandas, R, Spark",https://example.com/job/387
+388,Data Analyst - Senior,Data Analyst,Delhi,PhonePe,"Docker, GCP, Linux, NumPy, Pandas, SQL",https://example.com/job/388
+389,Data Scientist,Data Scientist,Bengaluru,Amazon,"Communication, Hadoop, Machine Learning, NumPy, SQL, Spark, scikit-learn",https://example.com/job/389
+390,BI Developer,BI Developer,Kolkata,TCS,"Airflow, Data Visualization, NLP, NumPy, Spark",https://example.com/job/390
+391,Data Scientist - Lead,Data Scientist,Chennai,TCS,"AWS, Docker, Linux, Pandas, Power BI, SQL, Statistics",https://example.com/job/391
+392,Data Analyst,Data Analyst,Hyderabad,Wipro,"Docker, Power BI, PyTorch, Python, R, Spark, Tableau, TensorFlow",https://example.com/job/392
+393,Data Analyst - Lead,Data Analyst,Noida,PhonePe,"A/B Testing, Deep Learning, Docker, Linux, Pandas, Power BI, Spark, TensorFlow",https://example.com/job/393
+394,ML Engineer - Senior,ML Engineer,Hyderabad,Amazon,"Azure, Communication, Docker, Machine Learning, NumPy, Power BI, Python, Statistics",https://example.com/job/394
+395,Data Scientist,Data Scientist,Hyderabad,Swiggy,"Airflow, Communication, Excel, NumPy, Tableau",https://example.com/job/395
+396,ML Engineer - Senior,ML Engineer,Mumbai,PhonePe,"A/B Testing, Azure, ETL, Machine Learning, Power BI, SQL, Tableau, TensorFlow",https://example.com/job/396
+397,Business Analyst - Senior,Business Analyst,Delhi,Deloitte,"A/B Testing, Communication, ETL, GCP, Git, Linux, SQL",https://example.com/job/397
+398,Data Scientist,Data Scientist,Mumbai,Infosys,"Docker, ETL, Excel, Hadoop, NLP, NumPy, Statistics",https://example.com/job/398
+399,Business Analyst,Business Analyst,Delhi,Infosys,"API, AWS, Azure, Docker, NLP, NumPy, Statistics",https://example.com/job/399
+400,BI Developer - Junior,BI Developer,Hyderabad,TCS,"Data Visualization, Deep Learning, Machine Learning, Python, Spark",https://example.com/job/400
+401,Data Scientist - Lead,Data Scientist,Noida,Accenture,"A/B Testing, Airflow, Azure, Git, SQL, Tableau",https://example.com/job/401
+402,Business Analyst,Business Analyst,Pune,Swiggy,"Excel, Machine Learning, NumPy, Pandas, R, Tableau",https://example.com/job/402
+403,ML Engineer - Junior,ML Engineer,Chennai,Swiggy,"API, Communication, PyTorch, Statistics",https://example.com/job/403
+404,ML Engineer - Senior,ML Engineer,Pune,Swiggy,"AWS, Data Visualization, Deep Learning, Excel, Machine Learning, scikit-learn",https://example.com/job/404
+405,BI Developer - Senior,BI Developer,Delhi,Freshworks,"A/B Testing, API, ETL, NumPy, Power BI, TensorFlow",https://example.com/job/405
+406,BI Developer - Junior,BI Developer,Noida,Accenture,"Airflow, Azure, Kubernetes, Python, Statistics",https://example.com/job/406
+407,Data Analyst - Junior,Data Analyst,Mumbai,Accenture,"Communication, Git, NumPy, Pandas, Python",https://example.com/job/407
+408,Data Analyst - Junior,Data Analyst,Kolkata,Infosys,"API, Azure, Git, Hadoop, NumPy, PyTorch, Spark, Tableau, TensorFlow",https://example.com/job/408
+409,Data Analyst - Lead,Data Analyst,Bengaluru,Wipro,"Excel, Git, Hadoop, Kubernetes, NumPy, R, TensorFlow",https://example.com/job/409
+410,Data Scientist - Junior,Data Scientist,Delhi,Wipro,"Azure, Docker, Python, TensorFlow, scikit-learn",https://example.com/job/410
+411,Data Analyst - Junior,Data Analyst,Noida,Infosys,"Airflow, Communication, ETL, Machine Learning, NLP, Pandas, Power BI, SQL, Statistics",https://example.com/job/411
+412,Data Scientist - Senior,Data Scientist,Kolkata,Freshworks,"A/B Testing, Docker, GCP, Hadoop, Pandas, R, TensorFlow",https://example.com/job/412
+413,Data Analyst - Lead,Data Analyst,Delhi,Accenture,"Data Visualization, Deep Learning, Linux, NLP, NumPy, Pandas, Tableau, TensorFlow",https://example.com/job/413
+414,Data Scientist - Lead,Data Scientist,Noida,Deloitte,"AWS, Hadoop, Machine Learning, TensorFlow",https://example.com/job/414
+415,Business Analyst - Lead,Business Analyst,Kolkata,PhonePe,"Data Visualization, NumPy, Power BI, Python",https://example.com/job/415
+416,Business Analyst - Lead,Business Analyst,Bengaluru,Swiggy,"AWS, Excel, Hadoop, Machine Learning, NumPy, SQL, Spark",https://example.com/job/416
+417,BI Developer,BI Developer,Delhi,Amazon,"API, Airflow, Azure, Communication, Docker, Machine Learning, TensorFlow",https://example.com/job/417
+418,Data Analyst,Data Analyst,Bengaluru,Infosys,"Git, Linux, NLP, R, scikit-learn",https://example.com/job/418
+419,Data Scientist,Data Scientist,Bengaluru,Freshworks,"Communication, Deep Learning, Docker, Hadoop, NLP, PyTorch, R, Tableau",https://example.com/job/419
+420,Data Analyst - Lead,Data Analyst,Kolkata,Wipro,"AWS, Azure, Communication, Data Visualization, ETL, Hadoop, NumPy, TensorFlow",https://example.com/job/420
+421,ML Engineer - Lead,ML Engineer,Pune,Infosys,"API, Airflow, Communication, GCP, Kubernetes, SQL",https://example.com/job/421
+422,ML Engineer - Senior,ML Engineer,Noida,Wipro,"A/B Testing, API, Communication, Data Visualization, Excel, GCP, Power BI, scikit-learn",https://example.com/job/422
+423,BI Developer - Senior,BI Developer,Pune,TCS,"Docker, Git, NumPy, Spark, Tableau, TensorFlow",https://example.com/job/423
+424,Data Scientist - Senior,Data Scientist,Pune,Flipkart,"Machine Learning, NumPy, Pandas, PyTorch, Python, R",https://example.com/job/424
+425,Data Analyst - Lead,Data Analyst,Kolkata,Accenture,"AWS, Docker, ETL, Excel, NumPy, Pandas, PyTorch",https://example.com/job/425
+426,ML Engineer - Junior,ML Engineer,Delhi,Wipro,"A/B Testing, AWS, Docker, ETL, NLP, NumPy",https://example.com/job/426
+427,Data Scientist - Lead,Data Scientist,Delhi,TCS,"API, Docker, Kubernetes, PyTorch, Tableau",https://example.com/job/427
+428,BI Developer,BI Developer,Kolkata,Amazon,"A/B Testing, Communication, Docker, GCP, PyTorch, R, Spark",https://example.com/job/428
+429,Data Analyst - Junior,Data Analyst,Pune,TCS,"A/B Testing, Azure, ETL, GCP, Pandas, Power BI, SQL",https://example.com/job/429
+430,ML Engineer,ML Engineer,Hyderabad,Amazon,"A/B Testing, Kubernetes, Statistics, TensorFlow",https://example.com/job/430
+431,Data Analyst,Data Analyst,Bengaluru,Swiggy,"Azure, Kubernetes, NLP, Pandas, PyTorch",https://example.com/job/431
+432,Data Analyst,Data Analyst,Kolkata,Freshworks,"A/B Testing, Excel, Git, Hadoop, Power BI, Python, Statistics, scikit-learn",https://example.com/job/432
+433,BI Developer - Senior,BI Developer,Kolkata,Amazon,"AWS, Communication, GCP, Git, Kubernetes",https://example.com/job/433
+434,ML Engineer - Lead,ML Engineer,Delhi,Deloitte,"A/B Testing, Git, Hadoop, Kubernetes, Python, Spark",https://example.com/job/434
+435,BI Developer - Senior,BI Developer,Chennai,Wipro,"Excel, Kubernetes, NLP, Python, R, Statistics",https://example.com/job/435
+436,BI Developer - Senior,BI Developer,Kolkata,PhonePe,"Deep Learning, GCP, Pandas, Python, Tableau",https://example.com/job/436
+437,BI Developer - Senior,BI Developer,Hyderabad,Flipkart,"Data Visualization, ETL, Linux, Machine Learning, Pandas, R",https://example.com/job/437
+438,Data Scientist - Lead,Data Scientist,Delhi,Accenture,"Data Visualization, Hadoop, Linux, Pandas, Power BI",https://example.com/job/438
+439,BI Developer,BI Developer,Bengaluru,Freshworks,"Communication, Docker, Linux, R, scikit-learn",https://example.com/job/439
+440,Data Analyst - Junior,Data Analyst,Noida,Infosys,"Airflow, Azure, Communication, Kubernetes, Pandas, Power BI, TensorFlow",https://example.com/job/440
+441,Data Scientist - Senior,Data Scientist,Delhi,Flipkart,"GCP, NLP, PyTorch, TensorFlow",https://example.com/job/441
+442,Data Scientist - Lead,Data Scientist,Delhi,Infosys,"API, GCP, Git, Hadoop, Power BI, Spark",https://example.com/job/442
+443,ML Engineer,ML Engineer,Delhi,Freshworks,"AWS, Hadoop, Pandas, PyTorch, SQL",https://example.com/job/443
+444,Data Analyst,Data Analyst,Pune,Amazon,"AWS, Deep Learning, Docker, PyTorch, Statistics, Tableau",https://example.com/job/444
+445,Data Analyst,Data Analyst,Kolkata,Amazon,"API, Communication, Data Visualization, Deep Learning, Hadoop, NLP, Tableau",https://example.com/job/445
+446,Data Analyst - Lead,Data Analyst,Mumbai,Flipkart,"API, Airflow, Azure, Deep Learning, Machine Learning, PyTorch, Statistics",https://example.com/job/446
+447,Data Scientist - Junior,Data Scientist,Hyderabad,Wipro,"ETL, Kubernetes, Python, Spark, TensorFlow",https://example.com/job/447
+448,ML Engineer - Lead,ML Engineer,Hyderabad,PhonePe,"AWS, Data Visualization, Hadoop, Kubernetes, Linux, NLP, PyTorch, Spark, TensorFlow",https://example.com/job/448
+449,Business Analyst - Lead,Business Analyst,Kolkata,Flipkart,"Data Visualization, ETL, Kubernetes, Python, SQL, scikit-learn",https://example.com/job/449
+450,ML Engineer,ML Engineer,Mumbai,TCS,"A/B Testing, GCP, Pandas, SQL, Tableau, TensorFlow",https://example.com/job/450
+451,Data Analyst - Senior,Data Analyst,Bengaluru,PhonePe,"Airflow, Docker, Git, Machine Learning, R, Spark, Tableau",https://example.com/job/451
+452,ML Engineer - Junior,ML Engineer,Chennai,Wipro,"Communication, Data Visualization, Excel, Git, Python, R, Statistics",https://example.com/job/452
+453,Data Scientist - Senior,Data Scientist,Bengaluru,Accenture,"AWS, Data Visualization, Deep Learning, GCP, Git, NumPy, Pandas, PyTorch",https://example.com/job/453
+454,Data Analyst - Senior,Data Analyst,Mumbai,Wipro,"Airflow, Data Visualization, GCP, Kubernetes, Linux, Machine Learning, NLP",https://example.com/job/454
+455,BI Developer,BI Developer,Kolkata,Swiggy,"API, AWS, Airflow, Data Visualization, Docker, Kubernetes, Linux, PyTorch",https://example.com/job/455
+456,Data Scientist - Senior,Data Scientist,Noida,Flipkart,"API, Communication, Hadoop, Linux, NLP, Tableau",https://example.com/job/456
+457,Business Analyst - Senior,Business Analyst,Chennai,Freshworks,"AWS, Git, NLP, PyTorch, Spark, Statistics",https://example.com/job/457
+458,Data Scientist,Data Scientist,Pune,Accenture,"ETL, Linux, Machine Learning, scikit-learn",https://example.com/job/458
+459,BI Developer - Lead,BI Developer,Pune,PhonePe,"Data Visualization, Docker, NumPy, Spark, Tableau, scikit-learn",https://example.com/job/459
+460,Data Analyst - Junior,Data Analyst,Noida,Wipro,"Azure, Hadoop, SQL, scikit-learn",https://example.com/job/460
+461,Data Analyst - Senior,Data Analyst,Bengaluru,Infosys,"AWS, Data Visualization, ETL, GCP, Kubernetes, SQL",https://example.com/job/461
+462,ML Engineer - Junior,ML Engineer,Pune,TCS,"API, AWS, Communication, Git, Linux, NLP, Pandas, Spark, scikit-learn",https://example.com/job/462
+463,ML Engineer,ML Engineer,Hyderabad,Amazon,"A/B Testing, API, Azure, Deep Learning, Excel, Spark, Tableau",https://example.com/job/463
+464,Data Analyst - Lead,Data Analyst,Mumbai,Flipkart,"Docker, GCP, Hadoop, Kubernetes, Machine Learning, NumPy, Python, SQL",https://example.com/job/464
+465,Data Scientist,Data Scientist,Noida,Infosys,"Communication, ETL, Linux, Power BI, PyTorch, Tableau",https://example.com/job/465
+466,Data Analyst - Lead,Data Analyst,Mumbai,Amazon,"Docker, Git, Linux, NumPy, Pandas, R, Tableau",https://example.com/job/466
+467,Business Analyst,Business Analyst,Bengaluru,PhonePe,"Azure, Data Visualization, Git, Pandas, Spark",https://example.com/job/467
+468,Business Analyst,Business Analyst,Kolkata,Accenture,"Excel, Hadoop, NLP, NumPy, Power BI, Spark, TensorFlow",https://example.com/job/468
+469,Data Scientist,Data Scientist,Mumbai,Swiggy,"A/B Testing, AWS, Airflow, Kubernetes, Spark, Statistics, Tableau, scikit-learn",https://example.com/job/469
+470,Business Analyst - Junior,Business Analyst,Chennai,Wipro,"GCP, Machine Learning, Power BI, Spark, Statistics, TensorFlow, scikit-learn",https://example.com/job/470
+471,Business Analyst - Lead,Business Analyst,Noida,Freshworks,"API, Deep Learning, Linux, Machine Learning, NLP, Power BI, Spark",https://example.com/job/471
+472,Data Scientist - Lead,Data Scientist,Delhi,Deloitte,"Airflow, Git, NumPy, Python, R",https://example.com/job/472
+473,Data Scientist - Senior,Data Scientist,Bengaluru,Infosys,"Communication, Deep Learning, Git, Linux, Python",https://example.com/job/473
+474,Data Analyst - Junior,Data Analyst,Chennai,Deloitte,"Azure, ETL, Linux, Python, Statistics, TensorFlow",https://example.com/job/474
+475,Data Analyst - Senior,Data Analyst,Delhi,Accenture,"API, Azure, Deep Learning, Excel, Hadoop, Kubernetes, Linux, TensorFlow, scikit-learn",https://example.com/job/475
+476,Data Analyst - Junior,Data Analyst,Chennai,Deloitte,"Azure, Hadoop, Kubernetes, Python, R",https://example.com/job/476
+477,ML Engineer - Senior,ML Engineer,Chennai,Amazon,"Airflow, Communication, Linux, NumPy, PyTorch, Tableau",https://example.com/job/477
+478,Data Scientist - Senior,Data Scientist,Mumbai,Infosys,"ETL, Hadoop, Statistics, Tableau",https://example.com/job/478
+479,BI Developer,BI Developer,Noida,Swiggy,"A/B Testing, Airflow, Azure, ETL, NumPy, Python, R",https://example.com/job/479
+480,Data Scientist,Data Scientist,Bengaluru,Freshworks,"A/B Testing, AWS, Deep Learning, Pandas, PyTorch",https://example.com/job/480
+481,Data Analyst - Senior,Data Analyst,Noida,TCS,"Azure, Data Visualization, NLP, Power BI, SQL, TensorFlow",https://example.com/job/481
+482,Business Analyst,Business Analyst,Bengaluru,Accenture,"Azure, Deep Learning, Excel, Hadoop, Linux, Power BI",https://example.com/job/482
+483,BI Developer,BI Developer,Kolkata,Infosys,"A/B Testing, ETL, Git, Machine Learning, R, scikit-learn",https://example.com/job/483
+484,Data Analyst - Senior,Data Analyst,Bengaluru,PhonePe,"Azure, GCP, NumPy, Pandas, Spark",https://example.com/job/484
+485,Data Scientist - Junior,Data Scientist,Chennai,Accenture,"Airflow, Azure, NLP, NumPy, PyTorch, R, TensorFlow, scikit-learn",https://example.com/job/485
+486,ML Engineer - Junior,ML Engineer,Chennai,Wipro,"AWS, Data Visualization, NumPy, Power BI, R, SQL",https://example.com/job/486
+487,ML Engineer - Senior,ML Engineer,Hyderabad,Infosys,"API, Deep Learning, ETL, Spark, Tableau, scikit-learn",https://example.com/job/487
+488,Data Scientist - Senior,Data Scientist,Kolkata,Freshworks,"Communication, ETL, Git, Machine Learning, SQL",https://example.com/job/488
+489,Data Scientist - Senior,Data Scientist,Kolkata,Freshworks,"API, Azure, ETL, GCP, Power BI, Tableau, scikit-learn",https://example.com/job/489
+490,Data Scientist,Data Scientist,Bengaluru,Accenture,"AWS, Communication, Excel, Kubernetes, NLP, Tableau",https://example.com/job/490
+491,Data Scientist - Senior,Data Scientist,Kolkata,TCS,"A/B Testing, API, Airflow, Docker, Kubernetes, SQL, Statistics, TensorFlow",https://example.com/job/491
+492,ML Engineer - Lead,ML Engineer,Delhi,PhonePe,"Airflow, Communication, Data Visualization, Excel, Git, Pandas, PyTorch",https://example.com/job/492
+493,BI Developer - Junior,BI Developer,Mumbai,Flipkart,"AWS, Azure, Data Visualization, Excel, GCP, R, Statistics, scikit-learn",https://example.com/job/493
+494,ML Engineer,ML Engineer,Delhi,PhonePe,"Azure, Communication, ETL, Spark, scikit-learn",https://example.com/job/494
+495,Data Scientist - Lead,Data Scientist,Noida,Deloitte,"ETL, GCP, NLP, PyTorch, SQL",https://example.com/job/495
+496,ML Engineer - Lead,ML Engineer,Hyderabad,TCS,"API, Deep Learning, Hadoop, PyTorch, Python, R, scikit-learn",https://example.com/job/496
+497,Business Analyst - Lead,Business Analyst,Delhi,Amazon,"A/B Testing, Communication, Excel, Kubernetes, Power BI, R, Spark",https://example.com/job/497
+498,Business Analyst,Business Analyst,Chennai,Deloitte,"Azure, Git, Power BI, Tableau, TensorFlow",https://example.com/job/498
+499,Business Analyst - Senior,Business Analyst,Kolkata,Amazon,"Azure, Excel, Hadoop, Machine Learning, Power BI, R, Tableau, scikit-learn",https://example.com/job/499
+500,BI Developer - Lead,BI Developer,Chennai,TCS,"A/B Testing, AWS, Communication, Excel, Machine Learning, Power BI, R, TensorFlow",https://example.com/job/500
+501,Data Scientist - Senior,Data Scientist,Kolkata,Deloitte,"Communication, Docker, Excel, Kubernetes, Machine Learning, NumPy, SQL, Spark, Statistics",https://example.com/job/501
+502,BI Developer,BI Developer,Bengaluru,Infosys,"GCP, Git, Linux, NumPy, Python",https://example.com/job/502
+503,Data Scientist - Lead,Data Scientist,Bengaluru,Flipkart,"AWS, Docker, ETL, Machine Learning, NumPy, R, Statistics, scikit-learn",https://example.com/job/503
+504,ML Engineer - Junior,ML Engineer,Noida,TCS,"API, GCP, NLP, Power BI, Spark, Statistics",https://example.com/job/504
+505,Data Scientist - Lead,Data Scientist,Bengaluru,Swiggy,"API, Deep Learning, Kubernetes, TensorFlow",https://example.com/job/505
+506,Data Analyst - Junior,Data Analyst,Bengaluru,Wipro,"AWS, Azure, Communication, Git, Hadoop, Power BI, scikit-learn",https://example.com/job/506
+507,BI Developer - Junior,BI Developer,Noida,Amazon,"AWS, Airflow, Data Visualization, Docker, Pandas, scikit-learn",https://example.com/job/507
+508,Data Analyst - Junior,Data Analyst,Pune,Amazon,"Docker, Hadoop, NLP, PyTorch, TensorFlow",https://example.com/job/508
+509,ML Engineer - Lead,ML Engineer,Kolkata,Accenture,"Azure, GCP, NLP, Tableau",https://example.com/job/509
+510,ML Engineer - Senior,ML Engineer,Hyderabad,Wipro,"A/B Testing, AWS, ETL, GCP, Machine Learning",https://example.com/job/510
+511,Data Analyst - Senior,Data Analyst,Chennai,Amazon,"Deep Learning, NLP, Power BI, Spark",https://example.com/job/511
+512,Business Analyst - Senior,Business Analyst,Mumbai,PhonePe,"Airflow, Communication, Excel, Kubernetes, Pandas, TensorFlow, scikit-learn",https://example.com/job/512
+513,BI Developer,BI Developer,Delhi,Amazon,"A/B Testing, ETL, Excel, GCP, Git, NLP, PyTorch, Statistics",https://example.com/job/513
+514,BI Developer - Senior,BI Developer,Kolkata,Deloitte,"API, ETL, Linux, Python, SQL",https://example.com/job/514
+515,BI Developer,BI Developer,Delhi,Infosys,"Deep Learning, Docker, ETL, Hadoop, Kubernetes, Pandas, PyTorch",https://example.com/job/515
+516,Data Analyst - Lead,Data Analyst,Mumbai,Amazon,"Data Visualization, Excel, R, SQL, Tableau, scikit-learn",https://example.com/job/516
+517,Business Analyst - Junior,Business Analyst,Hyderabad,Accenture,"Communication, ETL, GCP, Git, Linux, Machine Learning, Pandas, scikit-learn",https://example.com/job/517
+518,Data Analyst - Senior,Data Analyst,Noida,Flipkart,"API, Deep Learning, GCP, Machine Learning, Power BI, scikit-learn",https://example.com/job/518
+519,BI Developer - Senior,BI Developer,Delhi,Deloitte,"API, AWS, Hadoop, Pandas, Python",https://example.com/job/519
+520,Business Analyst - Senior,Business Analyst,Chennai,Wipro,"Azure, Communication, Hadoop, NLP, PyTorch, Tableau",https://example.com/job/520
+521,Data Scientist - Senior,Data Scientist,Noida,Accenture,"Excel, Linux, NLP, NumPy, PyTorch, Statistics",https://example.com/job/521
+522,Business Analyst - Senior,Business Analyst,Chennai,Amazon,"Airflow, Data Visualization, ETL, Excel, GCP, Machine Learning, NumPy, Python",https://example.com/job/522
+523,Data Scientist - Junior,Data Scientist,Hyderabad,Flipkart,"API, Azure, Deep Learning, ETL, Excel, GCP, Hadoop, Power BI, Tableau",https://example.com/job/523
+524,Data Scientist,Data Scientist,Chennai,Deloitte,"Airflow, GCP, Power BI, Spark, Statistics, Tableau",https://example.com/job/524
+525,BI Developer - Junior,BI Developer,Noida,TCS,"Excel, GCP, Git, Kubernetes, NLP",https://example.com/job/525
+526,ML Engineer - Lead,ML Engineer,Delhi,Freshworks,"AWS, NLP, Pandas, R, Spark, Statistics",https://example.com/job/526
+527,Data Scientist - Senior,Data Scientist,Hyderabad,Deloitte,"Airflow, Communication, Docker, Excel, Kubernetes, NumPy, R, SQL",https://example.com/job/527
+528,Data Analyst,Data Analyst,Hyderabad,Wipro,"AWS, Communication, GCP, Machine Learning, NumPy, TensorFlow",https://example.com/job/528
+529,Data Analyst - Junior,Data Analyst,Delhi,Infosys,"Deep Learning, Excel, Git, Machine Learning, Pandas, R, TensorFlow",https://example.com/job/529
+530,ML Engineer,ML Engineer,Chennai,Accenture,"API, GCP, Hadoop, SQL, TensorFlow",https://example.com/job/530
+531,BI Developer - Lead,BI Developer,Noida,Wipro,"ETL, Linux, Pandas, R",https://example.com/job/531
+532,BI Developer - Junior,BI Developer,Delhi,Infosys,"Azure, Deep Learning, Kubernetes, NumPy, Python, Spark, Tableau",https://example.com/job/532
+533,Data Scientist - Senior,Data Scientist,Noida,Deloitte,"API, AWS, GCP, NLP, Tableau",https://example.com/job/533
+534,Data Analyst - Junior,Data Analyst,Hyderabad,Flipkart,"Excel, GCP, PyTorch, Statistics, TensorFlow",https://example.com/job/534
+535,Data Analyst - Junior,Data Analyst,Hyderabad,Deloitte,"API, Airflow, Communication, ETL, Excel, Python, SQL, TensorFlow",https://example.com/job/535
+536,Business Analyst,Business Analyst,Mumbai,PhonePe,"A/B Testing, Excel, GCP, Kubernetes, Spark",https://example.com/job/536
+537,Data Scientist - Senior,Data Scientist,Chennai,Amazon,"AWS, Airflow, Communication, Docker, Hadoop, Spark",https://example.com/job/537
+538,BI Developer,BI Developer,Kolkata,Deloitte,"A/B Testing, GCP, Kubernetes, Pandas, scikit-learn",https://example.com/job/538
+539,Data Scientist,Data Scientist,Mumbai,Wipro,"API, Airflow, Azure, GCP, Kubernetes, Linux, NumPy, R, TensorFlow",https://example.com/job/539
+540,BI Developer - Junior,BI Developer,Noida,Infosys,"AWS, Communication, Excel, Linux, Python, Spark, TensorFlow",https://example.com/job/540
+541,Data Analyst - Senior,Data Analyst,Kolkata,PhonePe,"Azure, ETL, Hadoop, NumPy, Pandas, Power BI, SQL, Tableau",https://example.com/job/541
+542,Data Scientist - Junior,Data Scientist,Pune,Freshworks,"A/B Testing, API, Azure, Deep Learning, Docker, Excel, R, SQL, Statistics",https://example.com/job/542
+543,BI Developer,BI Developer,Hyderabad,Deloitte,"ETL, GCP, NLP, Power BI, SQL, Statistics, scikit-learn",https://example.com/job/543
+544,ML Engineer - Senior,ML Engineer,Pune,Amazon,"AWS, Communication, Excel, Hadoop",https://example.com/job/544
+545,ML Engineer - Senior,ML Engineer,Hyderabad,Flipkart,"API, Data Visualization, ETL, Git, NLP, NumPy, Pandas",https://example.com/job/545
+546,BI Developer - Junior,BI Developer,Kolkata,Deloitte,"Data Visualization, Docker, GCP, NumPy, Power BI",https://example.com/job/546
+547,Data Analyst - Junior,Data Analyst,Hyderabad,Wipro,"API, AWS, Azure, Deep Learning, NLP, Power BI, R, Spark",https://example.com/job/547
+548,Business Analyst,Business Analyst,Hyderabad,Freshworks,"AWS, Airflow, Hadoop, PyTorch, R, SQL, Tableau",https://example.com/job/548
+549,Data Analyst - Lead,Data Analyst,Mumbai,Deloitte,"Data Visualization, GCP, Git, Kubernetes, Power BI, TensorFlow",https://example.com/job/549
+550,BI Developer - Senior,BI Developer,Mumbai,Infosys,"Excel, Pandas, PyTorch, Statistics, Tableau",https://example.com/job/550
+551,Data Scientist - Senior,Data Scientist,Mumbai,Amazon,"API, GCP, Git, Linux, Pandas, SQL, scikit-learn",https://example.com/job/551
+552,ML Engineer - Junior,ML Engineer,Chennai,Infosys,"API, NumPy, Pandas, Python, SQL",https://example.com/job/552
+553,ML Engineer - Senior,ML Engineer,Bengaluru,Swiggy,"AWS, Docker, Excel, Git, Kubernetes, Python, scikit-learn",https://example.com/job/553
+554,BI Developer - Senior,BI Developer,Noida,Flipkart,"AWS, Airflow, Communication, Machine Learning, NumPy, Power BI, Statistics, Tableau",https://example.com/job/554
+555,Business Analyst - Senior,Business Analyst,Chennai,Deloitte,"AWS, Excel, Linux, Statistics, TensorFlow",https://example.com/job/555
+556,Business Analyst - Lead,Business Analyst,Hyderabad,Deloitte,"A/B Testing, API, GCP, Machine Learning",https://example.com/job/556
+557,Business Analyst - Senior,Business Analyst,Bengaluru,Infosys,"Deep Learning, Excel, Kubernetes, NumPy, Tableau",https://example.com/job/557
+558,ML Engineer - Senior,ML Engineer,Pune,Amazon,"Data Visualization, GCP, Git, Machine Learning, Power BI, SQL",https://example.com/job/558
+559,Data Analyst,Data Analyst,Noida,PhonePe,"API, Azure, Docker, Machine Learning, NumPy, Statistics, TensorFlow",https://example.com/job/559
+560,ML Engineer,ML Engineer,Chennai,TCS,"Data Visualization, Git, Hadoop, NLP, Pandas, PyTorch, Python, SQL, TensorFlow",https://example.com/job/560
+561,Data Analyst,Data Analyst,Chennai,Swiggy,"API, AWS, Docker, NumPy, Python, Statistics",https://example.com/job/561
+562,BI Developer,BI Developer,Bengaluru,PhonePe,"Excel, Hadoop, NLP, SQL, Spark",https://example.com/job/562
+563,ML Engineer - Junior,ML Engineer,Kolkata,Freshworks,"Data Visualization, Docker, Machine Learning, Spark, TensorFlow",https://example.com/job/563
+564,ML Engineer - Junior,ML Engineer,Hyderabad,Swiggy,"A/B Testing, AWS, Data Visualization, Kubernetes, NumPy, Statistics, TensorFlow, scikit-learn",https://example.com/job/564
+565,BI Developer,BI Developer,Delhi,Freshworks,"A/B Testing, Azure, Kubernetes, Machine Learning, NLP, Statistics, Tableau",https://example.com/job/565
+566,Business Analyst - Lead,Business Analyst,Kolkata,TCS,"A/B Testing, Communication, Linux, NumPy, Tableau",https://example.com/job/566
+567,Business Analyst,Business Analyst,Delhi,Accenture,"A/B Testing, Communication, Data Visualization, ETL, Excel, Git, Machine Learning, Tableau",https://example.com/job/567
+568,ML Engineer - Lead,ML Engineer,Chennai,Wipro,"API, Airflow, ETL, Machine Learning, Power BI, Python, Spark, scikit-learn",https://example.com/job/568
+569,Data Analyst - Junior,Data Analyst,Mumbai,Flipkart,"A/B Testing, AWS, Airflow, Deep Learning, Docker, Linux, R, SQL, TensorFlow",https://example.com/job/569
+570,Data Analyst - Senior,Data Analyst,Noida,Swiggy,"API, ETL, Pandas",https://example.com/job/570
+571,Data Scientist - Junior,Data Scientist,Kolkata,Deloitte,"A/B Testing, ETL, Git, Machine Learning, NLP, SQL, TensorFlow",https://example.com/job/571
+572,Data Scientist - Lead,Data Scientist,Mumbai,Flipkart,"Airflow, Deep Learning, Docker, NumPy, Statistics, Tableau, scikit-learn",https://example.com/job/572
+573,Data Scientist - Junior,Data Scientist,Delhi,Infosys,"A/B Testing, Pandas, Python, TensorFlow",https://example.com/job/573
+574,ML Engineer,ML Engineer,Mumbai,Infosys,"Azure, Linux, Pandas, Power BI, Python, SQL",https://example.com/job/574
+575,ML Engineer - Senior,ML Engineer,Bengaluru,Accenture,"API, AWS, Data Visualization, Excel, GCP, Pandas, R, Statistics",https://example.com/job/575
+576,ML Engineer,ML Engineer,Pune,PhonePe,"Azure, Docker, Kubernetes, PyTorch, SQL",https://example.com/job/576
+577,Business Analyst - Senior,Business Analyst,Bengaluru,Flipkart,"AWS, Docker, NLP, Spark, TensorFlow, scikit-learn",https://example.com/job/577
+578,Data Analyst,Data Analyst,Bengaluru,Infosys,"Docker, Excel, Hadoop, Machine Learning, NumPy, Statistics",https://example.com/job/578
+579,Data Scientist - Senior,Data Scientist,Chennai,TCS,"AWS, Docker, Excel, Kubernetes, NLP, Spark",https://example.com/job/579
+580,Data Analyst - Senior,Data Analyst,Chennai,Deloitte,"Azure, ETL, Excel, Kubernetes, Machine Learning, Statistics, TensorFlow, scikit-learn",https://example.com/job/580
+581,BI Developer - Senior,BI Developer,Mumbai,Deloitte,"AWS, Azure, Docker, ETL, Git, Kubernetes, NLP, Python",https://example.com/job/581
+582,Data Scientist - Junior,Data Scientist,Chennai,Swiggy,"Communication, Deep Learning, Git, NLP, Pandas, SQL, TensorFlow",https://example.com/job/582
+583,Business Analyst,Business Analyst,Noida,Amazon,"A/B Testing, AWS, Excel, Pandas, TensorFlow",https://example.com/job/583
+584,ML Engineer,ML Engineer,Pune,Wipro,"AWS, Data Visualization, Git, Hadoop, NumPy, TensorFlow",https://example.com/job/584
+585,ML Engineer,ML Engineer,Kolkata,Freshworks,"ETL, Hadoop, NLP, Pandas, R, SQL, Spark, scikit-learn",https://example.com/job/585
+586,BI Developer - Junior,BI Developer,Chennai,TCS,"A/B Testing, Communication, Hadoop, Pandas, Power BI, PyTorch, SQL, Tableau",https://example.com/job/586
+587,Data Scientist,Data Scientist,Pune,Accenture,"AWS, Azure, Communication, Docker, Excel, SQL, TensorFlow",https://example.com/job/587
+588,Data Scientist - Senior,Data Scientist,Hyderabad,Swiggy,"AWS, Communication, ETL, GCP, NLP, Power BI, PyTorch, Statistics",https://example.com/job/588
+589,BI Developer - Senior,BI Developer,Bengaluru,Deloitte,"Deep Learning, Excel, Git, Hadoop, NLP, PyTorch",https://example.com/job/589
+590,Data Scientist - Junior,Data Scientist,Pune,TCS,"Communication, GCP, Kubernetes, Machine Learning, Pandas, TensorFlow, scikit-learn",https://example.com/job/590
+591,Business Analyst - Lead,Business Analyst,Noida,Flipkart,"A/B Testing, Docker, SQL, Statistics",https://example.com/job/591
+592,ML Engineer,ML Engineer,Pune,Accenture,"GCP, Git, Kubernetes, NLP, Pandas, Spark, Statistics",https://example.com/job/592
+593,Business Analyst - Junior,Business Analyst,Noida,Deloitte,"A/B Testing, Data Visualization, Deep Learning, ETL, Tableau, scikit-learn",https://example.com/job/593
+594,Data Scientist,Data Scientist,Hyderabad,Freshworks,"AWS, Git, Linux, Power BI, Python, scikit-learn",https://example.com/job/594
+595,Data Scientist - Senior,Data Scientist,Mumbai,Flipkart,"A/B Testing, Communication, Excel, Hadoop, Kubernetes, NumPy, SQL, Tableau, scikit-learn",https://example.com/job/595
+596,Business Analyst - Lead,Business Analyst,Pune,TCS,"Communication, Machine Learning, NumPy, Pandas, PyTorch",https://example.com/job/596
+597,Business Analyst - Junior,Business Analyst,Hyderabad,PhonePe,"AWS, Excel, Kubernetes, NumPy, Pandas, Power BI, scikit-learn",https://example.com/job/597
+598,BI Developer,BI Developer,Noida,Deloitte,"Azure, Data Visualization, ETL, Hadoop, NumPy, Power BI, PyTorch, R, Spark",https://example.com/job/598
+599,Data Scientist - Lead,Data Scientist,Delhi,Freshworks,"Deep Learning, Excel, Hadoop, NumPy, Power BI",https://example.com/job/599
